@@ -154,11 +154,3 @@ To add a new predicate:
 ```
 
 ---
-
-## **Contact**
-For questions or contributions, contact:
-- **Name**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [Your GitHub Link](https://github.com/yourprofile)
-
----

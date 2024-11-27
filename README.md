@@ -1,5 +1,3 @@
-Here’s a suggested structure for a README file for your JSON dataset:
-
 ---
 
 # **JSON Dataset for Interaction Management**

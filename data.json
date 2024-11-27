@@ -1,0 +1,240 @@
+{"predicates":{
+    "too hard":{
+        "base":[
+            {
+            "id":1,
+            "context":"math homework",
+            "phrases":[
+                "This is too hard! I do not get it.",
+                "Which problem is tricky? Lets check.",
+                "This one. I cannot add these numbers.",
+                "Okay, let start small. What is 300 plus 200?",
+                "Um… 500?",
+                "Great! Now, what is 40 plus 80?",
+                "I do not know.",
+                "Try again—think of it as 4 plus 8, then add a zero."]
+            },
+            {
+            "id":2,
+            "context":"",
+            "phrases":[
+                    ]
+            }
+            ],
+        "no explicit word":[
+            {
+            "id":1,
+            "context":"math homework",
+            "phrases":[
+                ]
+            },
+            {
+            "id":2,
+            "context":"",
+            "phrases":[
+                    
+                ]
+            }
+            ],
+        "implicit":[
+            {
+            "id":1,
+            "context":"math homework",
+            "phrases":[
+                ]
+                },
+                {
+                "id":2,
+                "context":"",
+                "phrases":[
+                        
+                    ]
+                }
+            ]
+        },
+    "too easy":{
+        "base":[
+            {
+            "id":1,
+            "context":"math homework",
+            "phrases":[
+                ]
+            },
+            {
+            "id":2,
+            "context":"",
+            "phrases":[
+                    ]
+            }
+            ],
+        "no explicit word":[
+            {
+            "id":1,
+            "context":"math homework",
+            "phrases":[
+                ]
+            },
+            {
+            "id":2,
+            "context":"",
+            "phrases":[
+                    
+                ]
+            }
+            ],
+        "implicit":[
+            {
+            "id":1,
+            "context":"math homework",
+            "phrases":[
+                ]
+                },
+                {
+                "id":2,
+                "context":"",
+                "phrases":[
+                        
+                    ]
+                }
+            ]
+        },
+    "too boring":{
+        "base":[
+            {
+            "id":1,
+            "context":"math homework",
+            "phrases":[
+                ]
+            },
+            {
+            "id":2,
+            "context":"",
+            "phrases":[
+                    ]
+            }
+            ],
+        "no explicit word":[
+            {
+            "id":1,
+            "context":"math homework",
+            "phrases":[
+                ]
+            },
+            {
+            "id":2,
+            "context":"",
+            "phrases":[
+                    
+                ]
+            }
+            ],
+        "implicit":[
+            {
+            "id":1,
+            "context":"math homework",
+            "phrases":[
+                ]
+                },
+                {
+                "id":2,
+                "context":"",
+                "phrases":[
+                        
+                    ]
+                }
+            ]
+        },
+        "tired child":{
+            "base":[
+                {
+                "id":1,
+                "context":"math homework",
+                "phrases":[
+                    ]
+                },
+                {
+                "id":2,
+                "context":"",
+                "phrases":[
+                        ]
+                }
+                ],
+            "no explicit word":[
+                {
+                "id":1,
+                "context":"math homework",
+                "phrases":[
+                    ]
+                },
+                {
+                "id":2,
+                "context":"",
+                "phrases":[
+                        
+                    ]
+                }
+                ],
+            "implicit":[
+                {
+                "id":1,
+                "context":"math homework",
+                "phrases":[
+                    ]
+                    },
+                    {
+                    "id":2,
+                    "context":"",
+                    "phrases":[
+                            
+                        ]
+                    }
+                ]
+            },
+        "hungry child":{
+            "base":[
+                {
+                "id":1,
+                "context":"math homework",
+                "phrases":[
+                    ]
+                },
+                {
+                "id":2,
+                "context":"",
+                "phrases":[
+                    ]
+                }
+                ],
+            "no explicit word":[
+                {
+                "id":1,
+                "context":"math homework",
+                "phrases":[
+                    ]
+                },
+                {
+                "id":2,
+                "context":"",
+                "phrases":[
+                        
+                    ]
+                }
+                ],
+            "implicit":[
+                {
+                "id":1,
+                "context":"math homework",
+                "phrases":[
+                    ]
+                    },
+                    {
+                    "id":2,
+                    "context":"",
+                    "phrases":[
+                            
+                        ]
+                    }
+                ]
+            }
+    } 
+}

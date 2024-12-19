@@ -1,0 +1,4202 @@
+request_response_time: 0.946
+request_prompt_characters: 871
+request_response: the user finds the task too hard
+request_response_time: 0.599
+request_prompt_characters: 922
+request_response: the user finds the task too hard
+request_response_time: 0.74
+request_prompt_characters: 838
+request_response: the user finds the task too hard
+request_response_time: 0.536
+request_prompt_characters: 843
+request_response: 'the user finds the task too hard'
+request_response_time: 0.63
+request_prompt_characters: 848
+request_response: the user finds the task too hard
+request_response_time: 0.57
+request_prompt_characters: 840
+request_response: the user finds the task too hard
+request_response_time: 0.539
+request_prompt_characters: 855
+request_response: the user finds the task too hard
+request_response_time: 0.608
+request_prompt_characters: 846
+request_response: the user finds the task too hard
+request_response_time: 0.677
+request_prompt_characters: 808
+request_response: the user finds the task too hard
+request_response_time: 0.611
+request_prompt_characters: 842
+request_response: the user finds the task too hard
+request_response_time: 0.627
+request_prompt_characters: 848
+request_response: 'the user finds the task too hard'
+request_response_time: 4.152
+request_prompt_characters: 839
+request_response: 'the user finds the task too hard'
+request_response_time: 0.636
+request_prompt_characters: 849
+request_response: 'the user finds the task too hard'
+request_response_time: 0.631
+request_prompt_characters: 854
+request_response: the user finds the task too hard
+request_response_time: 0.976
+request_prompt_characters: 884
+request_response: none
+request_response_time: 0.672
+request_prompt_characters: 852
+request_response: the user finds the task too hard
+request_response_time: 0.6
+request_prompt_characters: 836
+request_response: 'the user finds the task too hard'
+request_response_time: 0.567
+request_prompt_characters: 858
+request_response: none
+request_response_time: 0.634
+request_prompt_characters: 833
+request_response: the user finds the task too hard
+request_response_time: 0.632
+request_prompt_characters: 850
+request_response: 'the user finds the task too hard'
+request_response_time: 0.658
+request_prompt_characters: 845
+request_response: 'the user finds the task too hard'
+request_response_time: 0.578
+request_prompt_characters: 842
+request_response: none
+request_response_time: 0.524
+request_prompt_characters: 846
+request_response: none
+request_response_time: 0.62
+request_prompt_characters: 833
+request_response: the user finds the task too hard
+request_response_time: 0.697
+request_prompt_characters: 819
+request_response: none
+request_response_time: 0.617
+request_prompt_characters: 824
+request_response: none
+request_response_time: 1.098
+request_prompt_characters: 790
+request_response: none
+request_response_time: 0.615
+request_prompt_characters: 799
+request_response: the user finds the task too hard
+request_response_time: 0.582
+request_prompt_characters: 844
+request_response: none
+request_response_time: 0.692
+request_prompt_characters: 837
+request_response: the user finds the task too hard
+request_response_time: 0.641
+request_prompt_characters: 849
+request_response: none
+request_response_time: 0.693
+request_prompt_characters: 853
+request_response: 'the user finds the task too hard'
+request_response_time: 0.709
+request_prompt_characters: 802
+request_response: 'the user finds the task too hard'
+request_response_time: 0.59
+request_prompt_characters: 811
+request_response: none
+request_response_time: 0.734
+request_prompt_characters: 819
+request_response: none
+request_response_time: 0.458
+request_prompt_characters: 818
+request_response: none
+request_response_time: 0.554
+request_prompt_characters: 848
+request_response: none
+request_response_time: 0.458
+request_prompt_characters: 832
+request_response: none
+request_response_time: 0.589
+request_prompt_characters: 855
+request_response: none
+request_response_time: 2.848
+request_prompt_characters: 805
+request_response: none
+request_response_time: 0.644
+request_prompt_characters: 863
+request_response: none
+request_response_time: 0.509
+request_prompt_characters: 774
+request_response: none
+request_response_time: 0.857
+request_prompt_characters: 830
+request_response: 'the user finds the task too hard'
+request_response_time: 0.58
+request_prompt_characters: 814
+request_response: none
+request_response_time: 0.595
+request_prompt_characters: 827
+request_response: 'the user finds the task too hard'
+request_response_time: 0.562
+request_prompt_characters: 808
+request_response: none
+request_response_time: 0.583
+request_prompt_characters: 828
+request_response: none
+request_response_time: 0.843
+request_prompt_characters: 829
+request_response: 'the user finds the task too hard'
+request_response_time: 0.562
+request_prompt_characters: 813
+request_response: the user finds the task too hard
+request_response_time: 0.952
+request_prompt_characters: 817
+request_response: the user finds the task too hard
+request_response_time: 0.728
+request_prompt_characters: 910
+request_response: the user finds the task too easy
+request_response_time: 0.904
+request_prompt_characters: 920
+request_response: the user finds the task too easy
+request_response_time: 1.118
+request_prompt_characters: 906
+request_response: the user finds the task too easy
+request_response_time: 0.593
+request_prompt_characters: 892
+request_response: the user finds the task too easy
+request_response_time: 0.509
+request_prompt_characters: 900
+request_response: the user finds the task too easy
+request_response_time: 0.571
+request_prompt_characters: 897
+request_response: the user finds the task too easy
+request_response_time: 0.53
+request_prompt_characters: 893
+request_response: the user finds the task too easy
+request_response_time: 0.938
+request_prompt_characters: 891
+request_response: the user finds the task too easy
+request_response_time: 0.781
+request_prompt_characters: 915
+request_response: the user finds the task too easy
+request_response_time: 0.562
+request_prompt_characters: 879
+request_response: the user finds the task too easy
+request_response_time: 0.587
+request_prompt_characters: 943
+request_response: the user finds the task too easy
+request_response_time: 0.621
+request_prompt_characters: 867
+request_response: the user finds the task too easy
+request_response_time: 0.597
+request_prompt_characters: 863
+request_response: the user finds the task too easy
+request_response_time: 0.445
+request_prompt_characters: 870
+request_response: the user finds the task too easy
+request_response_time: 1.216
+request_prompt_characters: 908
+request_response: the user finds the task too easy
+request_response_time: 0.59
+request_prompt_characters: 867
+request_response: the user finds the task too easy
+request_response_time: 0.483
+request_prompt_characters: 887
+request_response: the user finds the task too easy
+request_response_time: 0.557
+request_prompt_characters: 861
+request_response: the user finds the task too easy
+request_response_time: 1.104
+request_prompt_characters: 880
+request_response: the user finds the task too easy
+request_response_time: 1.137
+request_prompt_characters: 873
+request_response: the user finds the task too easy
+request_response_time: 0.548
+request_prompt_characters: 883
+request_response: the user finds the task too easy
+request_response_time: 1.252
+request_prompt_characters: 889
+request_response: the user finds the task too easy
+request_response_time: 0.724
+request_prompt_characters: 903
+request_response: the user finds the task too easy
+request_response_time: 0.712
+request_prompt_characters: 882
+request_response: the user finds the task too easy
+request_response_time: 0.575
+request_prompt_characters: 901
+request_response: the user finds the task too easy
+request_response_time: 0.668
+request_prompt_characters: 912
+request_response: the user finds the task too easy
+request_response_time: 0.958
+request_prompt_characters: 931
+request_response: the user finds the task too easy
+request_response_time: 0.578
+request_prompt_characters: 903
+request_response: the user finds the task too easy
+request_response_time: 0.498
+request_prompt_characters: 895
+request_response: the user finds the task too easy
+request_response_time: 0.602
+request_prompt_characters: 875
+request_response: the user finds the task too easy
+request_response_time: 0.699
+request_prompt_characters: 909
+request_response: the user finds the task too easy
+request_response_time: 0.632
+request_prompt_characters: 902
+request_response: the user finds the task too easy
+request_response_time: 0.666
+request_prompt_characters: 867
+request_response: the user finds the task too easy
+request_response_time: 2.187
+request_prompt_characters: 873
+request_response: the user finds the task too easy
+request_response_time: 0.645
+request_prompt_characters: 864
+request_response: the user finds the task too easy
+request_response_time: 0.75
+request_prompt_characters: 893
+request_response: the user finds the task too easy
+request_response_time: 0.847
+request_prompt_characters: 891
+request_response: 'the user finds the task too easy'
+request_response_time: 1.124
+request_prompt_characters: 927
+request_response: the user finds the task too easy
+request_response_time: 0.735
+request_prompt_characters: 866
+request_response: 'the user finds the task too easy'
+request_response_time: 0.91
+request_prompt_characters: 894
+request_response: the user finds the task too easy
+request_response_time: 0.79
+request_prompt_characters: 942
+request_response: the user finds the task too easy
+request_response_time: 0.563
+request_prompt_characters: 872
+request_response: 'the user finds the task too easy'
+request_response_time: 0.828
+request_prompt_characters: 924
+request_response: the user finds the task too easy
+request_response_time: 0.672
+request_prompt_characters: 934
+request_response: the user finds the task too easy
+request_response_time: 0.674
+request_prompt_characters: 895
+request_response: the user finds the task too easy
+request_response_time: 0.549
+request_prompt_characters: 887
+request_response: the user finds the task too easy
+request_response_time: 0.798
+request_prompt_characters: 900
+request_response: the user finds the task too easy
+request_response_time: 0.877
+request_prompt_characters: 877
+request_response: the user finds the task too easy
+request_response_time: 0.565
+request_prompt_characters: 888
+request_response: the user finds the task too easy
+request_response_time: 0.599
+request_prompt_characters: 897
+request_response: the user finds the task too easy
+request_response_time: 0.765
+request_prompt_characters: 946
+request_response: 'the user finds the task too easy'
+request_response_time: 0.612
+request_prompt_characters: 945
+request_response: none
+request_response_time: 1.128
+request_prompt_characters: 954
+request_response: 'the user finds the task too easy'
+request_response_time: 0.894
+request_prompt_characters: 942
+request_response: the user finds the task too hard
+request_response_time: 0.456
+request_prompt_characters: 966
+request_response: none
+request_response_time: 0.674
+request_prompt_characters: 966
+request_response: 'the user finds the task too hard'
+request_response_time: 0.752
+request_prompt_characters: 943
+request_response: 'the user finds the task too easy'
+request_response_time: 0.548
+request_prompt_characters: 921
+request_response: none
+request_response_time: 0.596
+request_prompt_characters: 934
+request_response: none
+request_response_time: 0.704
+request_prompt_characters: 959
+request_response: 'the user finds the task too hard'
+request_response_time: 0.517
+request_prompt_characters: 972
+request_response: 'the user finds the task too easy'
+request_response_time: 0.517
+request_prompt_characters: 944
+request_response: none
+request_response_time: 0.501
+request_prompt_characters: 892
+request_response: none
+request_response_time: 0.536
+request_prompt_characters: 954
+request_response: none
+request_response_time: 0.462
+request_prompt_characters: 946
+request_response: none
+request_response_time: 0.865
+request_prompt_characters: 954
+request_response: 'the user finds the task too easy'
+request_response_time: 1.096
+request_prompt_characters: 919
+request_response: none
+request_response_time: 1.039
+request_prompt_characters: 958
+request_response: 'the user finds the task too easy'
+request_response_time: 0.913
+request_prompt_characters: 953
+request_response: the user finds the task too easy
+request_response_time: 0.92
+request_prompt_characters: 953
+request_response: none
+request_response_time: 0.747
+request_prompt_characters: 953
+request_response: 'the user finds the task too easy'
+request_response_time: 0.532
+request_prompt_characters: 912
+request_response: none
+request_response_time: 1.086
+request_prompt_characters: 940
+request_response: the user finds the task too hard
+request_response_time: 1.056
+request_prompt_characters: 934
+request_response: the user finds the task too hard
+request_response_time: 0.851
+request_prompt_characters: 938
+request_response: 'the user finds the task too hard'
+request_response_time: 0.644
+request_prompt_characters: 926
+request_response: none
+request_response_time: 0.789
+request_prompt_characters: 934
+request_response: the user finds the task too easy
+request_response_time: 0.507
+request_prompt_characters: 939
+request_response: none
+request_response_time: 0.811
+request_prompt_characters: 942
+request_response: 'the user finds the task too easy'
+request_response_time: 0.455
+request_prompt_characters: 950
+request_response: none
+request_response_time: 0.74
+request_prompt_characters: 946
+request_response: 'the user finds the task too easy'
+request_response_time: 0.883
+request_prompt_characters: 923
+request_response: none
+request_response_time: 0.519
+request_prompt_characters: 927
+request_response: 'the user finds the task too hard'
+request_response_time: 1.261
+request_prompt_characters: 921
+request_response: 'the user finds the task too hard'
+request_response_time: 1.284
+request_prompt_characters: 934
+request_response: the user finds the task too easy
+request_response_time: 0.531
+request_prompt_characters: 917
+request_response: none
+request_response_time: 0.69
+request_prompt_characters: 918
+request_response: 'the user finds the task too easy'
+request_response_time: 1.005
+request_prompt_characters: 930
+request_response: the user finds the task too easy
+request_response_time: 1.432
+request_prompt_characters: 914
+request_response: none
+request_response_time: 0.502
+request_prompt_characters: 930
+request_response: none
+request_response_time: 0.689
+request_prompt_characters: 965
+request_response: 'the user finds the task too easy'
+request_response_time: 0.552
+request_prompt_characters: 915
+request_response: none
+request_response_time: 0.53
+request_prompt_characters: 928
+request_response: none
+request_response_time: 0.801
+request_prompt_characters: 942
+request_response: 'the user finds the task too easy'
+request_response_time: 0.614
+request_prompt_characters: 913
+request_response: the user finds the task too easy
+request_response_time: 0.487
+request_prompt_characters: 926
+request_response: none
+request_response_time: 0.639
+request_prompt_characters: 928
+request_response: none
+request_response_time: 0.634
+request_prompt_characters: 905
+request_response: 'the user finds the task too hard'
+request_response_time: 0.659
+request_prompt_characters: 920
+request_response: none
+request_response_time: 0.787
+request_prompt_characters: 922
+request_response: 'the user finds the task too easy'
+request_response_time: 0.644
+request_prompt_characters: 923
+request_response: the user finds the task too hard
+request_response_time: 0.762
+request_prompt_characters: 899
+request_response: the user finds the task too hard
+request_response_time: 1.152
+request_prompt_characters: 956
+request_response: the user finds the task too hard
+request_response_time: 0.884
+request_prompt_characters: 923
+request_response: the user finds the task too hard
+request_response_time: 0.797
+request_prompt_characters: 955
+request_response: the user finds the task too hard
+request_response_time: 0.898
+request_prompt_characters: 956
+request_response: the user finds the task too hard
+request_response_time: 1.095
+request_prompt_characters: 962
+request_response: the user finds the task too hard
+request_response_time: 0.613
+request_prompt_characters: 966
+request_response: the user finds the task too hard
+request_response_time: 0.711
+request_prompt_characters: 972
+request_response: the user finds the task too hard
+request_response_time: 0.678
+request_prompt_characters: 930
+request_response: the user finds the task too hard
+request_response_time: 0.644
+request_prompt_characters: 942
+request_response: the user finds the task too hard
+request_response_time: 0.564
+request_prompt_characters: 955
+request_response: the user finds the task too hard
+request_response_time: 0.658
+request_prompt_characters: 932
+request_response: the user finds the task too hard
+request_response_time: 1.093
+request_prompt_characters: 922
+request_response: the user finds the task too hard
+request_response_time: 0.618
+request_prompt_characters: 969
+request_response: the user finds the task too hard
+request_response_time: 0.847
+request_prompt_characters: 918
+request_response: the user finds the task too hard
+request_response_time: 5.022
+request_prompt_characters: 935
+request_response: the user finds the task too hard
+request_response_time: 0.584
+request_prompt_characters: 911
+request_response: the user finds the task too hard
+request_response_time: 0.796
+request_prompt_characters: 932
+request_response: the user finds the task too hard
+request_response_time: 0.645
+request_prompt_characters: 922
+request_response: the user finds the task too hard
+request_response_time: 0.616
+request_prompt_characters: 937
+request_response: the user finds the task too hard
+request_response_time: 0.75
+request_prompt_characters: 933
+request_response: the user finds the task too hard
+request_response_time: 1.141
+request_prompt_characters: 913
+request_response: the user finds the task too hard
+request_response_time: 0.513
+request_prompt_characters: 946
+request_response: the user finds the task too hard
+request_response_time: 0.751
+request_prompt_characters: 937
+request_response: the user finds the task too hard
+request_response_time: 0.59
+request_prompt_characters: 931
+request_response: the user finds the task too hard
+request_response_time: 0.728
+request_prompt_characters: 899
+request_response: the user finds the task too hard
+request_response_time: 0.881
+request_prompt_characters: 932
+request_response: the user finds the task too hard
+request_response_time: 0.633
+request_prompt_characters: 920
+request_response: the user finds the task too hard
+request_response_time: 0.812
+request_prompt_characters: 897
+request_response: the user finds the task too hard
+request_response_time: 0.583
+request_prompt_characters: 942
+request_response: the user finds the task too hard
+request_response_time: 0.917
+request_prompt_characters: 919
+request_response: 'the user finds the task too hard'
+request_response_time: 0.535
+request_prompt_characters: 908
+request_response: the user finds the task too hard
+request_response_time: 0.615
+request_prompt_characters: 908
+request_response: the user finds the task too hard
+request_response_time: 0.774
+request_prompt_characters: 940
+request_response: the user finds the task too hard
+request_response_time: 0.535
+request_prompt_characters: 922
+request_response: none
+request_response_time: 0.716
+request_prompt_characters: 941
+request_response: 'the user finds the task too hard'
+request_response_time: 0.584
+request_prompt_characters: 917
+request_response: none
+request_response_time: 0.499
+request_prompt_characters: 909
+request_response: the user finds the task too hard
+request_response_time: 0.592
+request_prompt_characters: 897
+request_response: the user finds the task too hard
+request_response_time: 0.672
+request_prompt_characters: 933
+request_response: the user finds the task too hard
+request_response_time: 0.653
+request_prompt_characters: 929
+request_response: the user finds the task too hard
+request_response_time: 0.546
+request_prompt_characters: 925
+request_response: the user finds the task too hard
+request_response_time: 0.689
+request_prompt_characters: 928
+request_response: the user finds the task too hard
+request_response_time: 0.601
+request_prompt_characters: 904
+request_response: 'the user finds the task too hard'
+request_response_time: 0.656
+request_prompt_characters: 926
+request_response: the user finds the task too hard
+request_response_time: 0.56
+request_prompt_characters: 924
+request_response: the user finds the task too hard
+request_response_time: 0.704
+request_prompt_characters: 882
+request_response: the user finds the task too hard
+request_response_time: 0.524
+request_prompt_characters: 910
+request_response: the user finds the task too hard
+request_response_time: 0.938
+request_prompt_characters: 909
+request_response: 'the user finds the task too hard'
+request_response_time: 0.609
+request_prompt_characters: 1074
+request_response: the user finds the task too hard
+request_response_time: 0.532
+request_prompt_characters: 992
+request_response: the user finds the task too hard
+request_response_time: 0.783
+request_prompt_characters: 969
+request_response: the user finds the task too hard
+request_response_time: 0.658
+request_prompt_characters: 949
+request_response: the user finds the task too hard
+request_response_time: 0.706
+request_prompt_characters: 956
+request_response: the user finds the task too hard
+request_response_time: 0.646
+request_prompt_characters: 981
+request_response: the user finds the task too hard
+request_response_time: 0.94
+request_prompt_characters: 946
+request_response: the user finds the task too hard
+request_response_time: 0.801
+request_prompt_characters: 996
+request_response: the user finds the task too hard
+request_response_time: 0.8
+request_prompt_characters: 922
+request_response: the user finds the task too hard
+request_response_time: 1.429
+request_prompt_characters: 906
+request_response: the user finds the task too hard
+request_response_time: 0.77
+request_prompt_characters: 922
+request_response: the user finds the task too hard
+request_response_time: 0.691
+request_prompt_characters: 912
+request_response: the user finds the task too hard
+request_response_time: 1.203
+request_prompt_characters: 917
+request_response: the user finds the task too hard
+request_response_time: 0.651
+request_prompt_characters: 900
+request_response: the user finds the task too hard
+request_response_time: 0.63
+request_prompt_characters: 918
+request_response: the user finds the task too hard
+request_response_time: 0.66
+request_prompt_characters: 959
+request_response: the user finds the task too hard
+request_response_time: 0.617
+request_prompt_characters: 884
+request_response: the user finds the task too hard
+request_response_time: 0.719
+request_prompt_characters: 901
+request_response: the user finds the task too hard
+request_response_time: 0.504
+request_prompt_characters: 934
+request_response: the user finds the task too hard
+request_response_time: 0.643
+request_prompt_characters: 897
+request_response: the user finds the task too hard
+request_response_time: 0.579
+request_prompt_characters: 940
+request_response: the user finds the task too hard
+request_response_time: 0.597
+request_prompt_characters: 938
+request_response: the user finds the task too hard
+request_response_time: 0.755
+request_prompt_characters: 912
+request_response: the user finds the task too hard
+request_response_time: 0.597
+request_prompt_characters: 944
+request_response: the user finds the task too hard
+request_response_time: 0.66
+request_prompt_characters: 900
+request_response: the user finds the task too hard
+request_response_time: 0.817
+request_prompt_characters: 889
+request_response: the user finds the task too hard
+request_response_time: 0.598
+request_prompt_characters: 913
+request_response: the user finds the task too hard
+request_response_time: 0.864
+request_prompt_characters: 897
+request_response: the user finds the task too hard
+request_response_time: 0.74
+request_prompt_characters: 924
+request_response: the user finds the task too hard
+request_response_time: 0.683
+request_prompt_characters: 886
+request_response: the user finds the task too hard
+request_response_time: 1.104
+request_prompt_characters: 946
+request_response: the user finds the task too hard
+request_response_time: 1.196
+request_prompt_characters: 911
+request_response: the user finds the task too hard
+request_response_time: 0.565
+request_prompt_characters: 891
+request_response: the user finds the task too hard
+request_response_time: 0.874
+request_prompt_characters: 904
+request_response: the user finds the task too hard
+request_response_time: 0.619
+request_prompt_characters: 901
+request_response: the user finds the task too hard
+request_response_time: 0.625
+request_prompt_characters: 938
+request_response: the user finds the task too hard
+request_response_time: 0.661
+request_prompt_characters: 924
+request_response: the user finds the task too hard
+request_response_time: 0.732
+request_prompt_characters: 897
+request_response: the user finds the task too hard
+request_response_time: 0.763
+request_prompt_characters: 900
+request_response: the user finds the task too hard
+request_response_time: 0.556
+request_prompt_characters: 929
+request_response: the user finds the task too hard
+request_response_time: 0.595
+request_prompt_characters: 927
+request_response: the user finds the task too hard
+request_response_time: 0.68
+request_prompt_characters: 900
+request_response: the user finds the task too hard
+request_response_time: 0.71
+request_prompt_characters: 965
+request_response: the user finds the task too hard
+request_response_time: 0.61
+request_prompt_characters: 887
+request_response: the user finds the task too hard
+request_response_time: 0.751
+request_prompt_characters: 915
+request_response: the user finds the task too hard
+request_response_time: 0.61
+request_prompt_characters: 915
+request_response: the user finds the task too hard
+request_response_time: 0.62
+request_prompt_characters: 952
+request_response: the user finds the task too hard
+request_response_time: 1.148
+request_prompt_characters: 947
+request_response: the user finds the task too hard
+request_response_time: 0.716
+request_prompt_characters: 940
+request_response: the user finds the task too hard
+request_response_time: 0.621
+request_prompt_characters: 970
+request_response: the user finds the task too hard
+request_response_time: 0.756
+request_prompt_characters: 1002
+request_response: 'the user finds the task too easy'
+request_response_time: 0.595
+request_prompt_characters: 1019
+request_response: 'the user finds the task too easy'
+request_response_time: 1.021
+request_prompt_characters: 1024
+request_response: 'the user finds the task too easy'
+request_response_time: 0.538
+request_prompt_characters: 1002
+request_response: none
+request_response_time: 0.613
+request_prompt_characters: 1026
+request_response: none
+request_response_time: 0.744
+request_prompt_characters: 987
+request_response: 'the user finds the task too easy'
+request_response_time: 0.644
+request_prompt_characters: 968
+request_response: 'the user finds the task too easy'
+request_response_time: 0.613
+request_prompt_characters: 960
+request_response: none
+request_response_time: 0.567
+request_prompt_characters: 993
+request_response: none
+request_response_time: 0.57
+request_prompt_characters: 987
+request_response: none
+request_response_time: 0.565
+request_prompt_characters: 1010
+request_response: none
+request_response_time: 0.667
+request_prompt_characters: 1007
+request_response: 'the user finds the task too easy'
+request_response_time: 0.461
+request_prompt_characters: 1026
+request_response: none
+request_response_time: 0.657
+request_prompt_characters: 1003
+request_response: none
+request_response_time: 0.548
+request_prompt_characters: 1051
+request_response: none
+request_response_time: 0.91
+request_prompt_characters: 985
+request_response: none
+request_response_time: 0.673
+request_prompt_characters: 1002
+request_response: 'the user finds the task too easy'
+request_response_time: 0.534
+request_prompt_characters: 1026
+request_response: none
+request_response_time: 0.832
+request_prompt_characters: 991
+request_response: 'the user finds the task too easy'
+request_response_time: 0.457
+request_prompt_characters: 1022
+request_response: none
+request_response_time: 0.531
+request_prompt_characters: 1024
+request_response: none
+request_response_time: 0.567
+request_prompt_characters: 991
+request_response: none
+request_response_time: 0.672
+request_prompt_characters: 1013
+request_response: 'the user finds the task too easy'
+request_response_time: 0.769
+request_prompt_characters: 1022
+request_response: 'the user finds the task too easy'
+request_response_time: 0.66
+request_prompt_characters: 1012
+request_response: none
+request_response_time: 0.533
+request_prompt_characters: 1049
+request_response: none
+request_response_time: 0.563
+request_prompt_characters: 1013
+request_response: 'the user finds the task too easy'
+request_response_time: 0.548
+request_prompt_characters: 993
+request_response: none
+request_response_time: 0.704
+request_prompt_characters: 1004
+request_response: 'the user finds the task too easy'
+request_response_time: 0.471
+request_prompt_characters: 1030
+request_response: none
+request_response_time: 0.576
+request_prompt_characters: 1013
+request_response: none
+request_response_time: 0.533
+request_prompt_characters: 1010
+request_response: none
+request_response_time: 0.477
+request_prompt_characters: 1020
+request_response: 'the user finds the task too easy'
+request_response_time: 1.217
+request_prompt_characters: 1032
+request_response: 'the user finds the task too easy'
+request_response_time: 0.594
+request_prompt_characters: 991
+request_response: none
+request_response_time: 0.512
+request_prompt_characters: 1010
+request_response: none
+request_response_time: 0.666
+request_prompt_characters: 1016
+request_response: none
+request_response_time: 0.604
+request_prompt_characters: 993
+request_response: none
+request_response_time: 0.569
+request_prompt_characters: 999
+request_response: none
+request_response_time: 0.594
+request_prompt_characters: 1005
+request_response: none
+request_response_time: 0.529
+request_prompt_characters: 1009
+request_response: none
+request_response_time: 0.58
+request_prompt_characters: 1000
+request_response: none
+request_response_time: 0.533
+request_prompt_characters: 1013
+request_response: none
+request_response_time: 0.774
+request_prompt_characters: 1013
+request_response: 'the user finds the task too easy'
+request_response_time: 0.409
+request_prompt_characters: 1031
+request_response: none
+request_response_time: 0.52
+request_prompt_characters: 1010
+request_response: none
+request_response_time: 0.66
+request_prompt_characters: 1017
+request_response: none
+request_response_time: 0.487
+request_prompt_characters: 997
+request_response: none
+request_response_time: 0.678
+request_prompt_characters: 982
+request_response: none
+request_response_time: 1.426
+request_prompt_characters: 1011
+request_response: none
+request_response_time: 1.142
+request_prompt_characters: 1031
+request_response: none
+request_response_time: 0.565
+request_prompt_characters: 1025
+request_response: none
+request_response_time: 0.538
+request_prompt_characters: 998
+request_response: none
+request_response_time: 0.647
+request_prompt_characters: 1007
+request_response: none
+request_response_time: 0.578
+request_prompt_characters: 993
+request_response: none
+request_response_time: 1.022
+request_prompt_characters: 966
+request_response: none
+request_response_time: 0.582
+request_prompt_characters: 978
+request_response: none
+request_response_time: 0.563
+request_prompt_characters: 996
+request_response: none
+request_response_time: 5.214
+request_prompt_characters: 1009
+request_response: none
+request_response_time: 0.625
+request_prompt_characters: 963
+request_response: none
+request_response_time: 0.455
+request_prompt_characters: 1011
+request_response: none
+request_response_time: 0.626
+request_prompt_characters: 981
+request_response: none
+request_response_time: 0.517
+request_prompt_characters: 980
+request_response: none
+request_response_time: 1.189
+request_prompt_characters: 969
+request_response: none
+request_response_time: 0.532
+request_prompt_characters: 1016
+request_response: none
+request_response_time: 1.068
+request_prompt_characters: 942
+request_response: none
+request_response_time: 0.597
+request_prompt_characters: 970
+request_response: 'the user finds the task too hard'
+request_response_time: 0.487
+request_prompt_characters: 956
+request_response: none
+request_response_time: 0.844
+request_prompt_characters: 977
+request_response: none
+request_response_time: 0.533
+request_prompt_characters: 1006
+request_response: none
+request_response_time: 0.57
+request_prompt_characters: 1008
+request_response: none
+request_response_time: 0.574
+request_prompt_characters: 1011
+request_response: none
+request_response_time: 0.737
+request_prompt_characters: 1004
+request_response: none
+request_response_time: 0.55
+request_prompt_characters: 1014
+request_response: none
+request_response_time: 6.629
+request_prompt_characters: 986
+request_response: none
+request_response_time: 0.608
+request_prompt_characters: 1031
+request_response: none
+request_response_time: 0.94
+request_prompt_characters: 963
+request_response: none
+request_response_time: 0.627
+request_prompt_characters: 1017
+request_response: none
+request_response_time: 0.751
+request_prompt_characters: 971
+request_response: none
+request_response_time: 0.549
+request_prompt_characters: 997
+request_response: none
+request_response_time: 1.269
+request_prompt_characters: 1067
+request_response: none
+request_response_time: 0.579
+request_prompt_characters: 1030
+request_response: none
+request_response_time: 0.579
+request_prompt_characters: 1050
+request_response: none
+request_response_time: 0.5
+request_prompt_characters: 1035
+request_response: none
+request_response_time: 0.469
+request_prompt_characters: 1004
+request_response: none
+request_response_time: 0.485
+request_prompt_characters: 1064
+request_response: none
+request_response_time: 0.594
+request_prompt_characters: 1039
+request_response: none
+request_response_time: 0.594
+request_prompt_characters: 1047
+request_response: none
+request_response_time: 0.578
+request_prompt_characters: 985
+request_response: none
+request_response_time: 0.532
+request_prompt_characters: 1015
+request_response: none
+request_response_time: 0.735
+request_prompt_characters: 1008
+request_response: none
+request_response_time: 0.612
+request_prompt_characters: 994
+request_response: none
+request_response_time: 0.547
+request_prompt_characters: 1029
+request_response: none
+request_response_time: 0.801
+request_prompt_characters: 982
+request_response: none
+request_response_time: 0.847
+request_prompt_characters: 1045
+request_response: 'the user finds the task too easy'
+request_response_time: 0.518
+request_prompt_characters: 1038
+request_response: none
+request_response_time: 0.469
+request_prompt_characters: 997
+request_response: none
+request_response_time: 1.207
+request_prompt_characters: 1033
+request_response: none
+request_response_time: 0.77
+request_prompt_characters: 1018
+request_response: 'the user finds the task too easy'
+request_response_time: 0.419
+request_prompt_characters: 1005
+request_response: none
+request_response_time: 0.84
+request_prompt_characters: 714
+request_response: the user finds the task too hard
+request_response_time: 0.73
+request_prompt_characters: 752
+request_response: 'the user finds the task too hard'
+request_response_time: 0.531
+request_prompt_characters: 695
+request_response: the user finds the task too hard
+request_response_time: 0.501
+request_prompt_characters: 719
+request_response: the user finds the task too hard
+request_response_time: 0.907
+request_prompt_characters: 739
+request_response: the user finds the task too hard
+request_response_time: 0.575
+request_prompt_characters: 742
+request_response: the user finds the task too hard
+request_response_time: 0.5
+request_prompt_characters: 707
+request_response: the user finds the task too hard
+request_response_time: 0.817
+request_prompt_characters: 689
+request_response: the user finds the task too hard
+request_response_time: 0.753
+request_prompt_characters: 685
+request_response: the user finds the task too hard
+request_response_time: 0.635
+request_prompt_characters: 723
+request_response: the user finds the task too hard
+request_response_time: 0.566
+request_prompt_characters: 724
+request_response: the user finds the task too hard
+request_response_time: 0.599
+request_prompt_characters: 725
+request_response: the user finds the task too hard
+request_response_time: 0.58
+request_prompt_characters: 709
+request_response: the user finds the task too hard
+request_response_time: 0.631
+request_prompt_characters: 739
+request_response: the user finds the task too hard
+request_response_time: 1.324
+request_prompt_characters: 738
+request_response: 'the user finds the task too hard'
+request_response_time: 0.613
+request_prompt_characters: 729
+request_response: the user finds the task too hard
+request_response_time: 0.662
+request_prompt_characters: 703
+request_response: the user finds the task too hard
+request_response_time: 0.545
+request_prompt_characters: 737
+request_response: none
+request_response_time: 0.605
+request_prompt_characters: 727
+request_response: the user finds the task too hard
+request_response_time: 0.537
+request_prompt_characters: 734
+request_response: the user finds the task too hard
+request_response_time: 0.662
+request_prompt_characters: 723
+request_response: 'the user finds the task too hard'
+request_response_time: 0.534
+request_prompt_characters: 722
+request_response: none
+request_response_time: 0.456
+request_prompt_characters: 732
+request_response: none
+request_response_time: 0.85
+request_prompt_characters: 684
+request_response: the user finds the task too hard
+request_response_time: 0.531
+request_prompt_characters: 714
+request_response: the user finds the task too hard
+request_response_time: 2.744
+request_prompt_characters: 716
+request_response: 'the user finds the task too hard'
+request_response_time: 0.679
+request_prompt_characters: 691
+request_response: none
+request_response_time: 0.728
+request_prompt_characters: 686
+request_response: the user finds the task too hard
+request_response_time: 0.647
+request_prompt_characters: 719
+request_response: none
+request_response_time: 0.644
+request_prompt_characters: 716
+request_response: the user finds the task too hard
+request_response_time: 0.661
+request_prompt_characters: 709
+request_response: none
+request_response_time: 0.689
+request_prompt_characters: 711
+request_response: 'the user finds the task too hard'
+request_response_time: 0.819
+request_prompt_characters: 689
+request_response: 'the user finds the task too hard'
+request_response_time: 0.818
+request_prompt_characters: 689
+request_response: the user finds the task too hard
+request_response_time: 0.596
+request_prompt_characters: 708
+request_response: none
+request_response_time: 0.739
+request_prompt_characters: 694
+request_response: 'the user finds the task too hard'
+request_response_time: 0.976
+request_prompt_characters: 712
+request_response: none
+request_response_time: 0.672
+request_prompt_characters: 716
+request_response: the user finds the task too hard
+request_response_time: 1.47
+request_prompt_characters: 732
+request_response: 'the user finds the task too hard'
+request_response_time: 0.551
+request_prompt_characters: 692
+request_response: 'the user finds the task too hard'
+request_response_time: 0.707
+request_prompt_characters: 720
+request_response: 'the user finds the task too hard'
+request_response_time: 0.629
+request_prompt_characters: 662
+request_response: 'the user finds the task too hard'
+request_response_time: 0.787
+request_prompt_characters: 711
+request_response: the user finds the task too hard
+request_response_time: 0.582
+request_prompt_characters: 686
+request_response: none
+request_response_time: 1.04
+request_prompt_characters: 700
+request_response: the user finds the task too hard
+request_response_time: 0.726
+request_prompt_characters: 677
+request_response: the user finds the task too hard
+request_response_time: 0.658
+request_prompt_characters: 710
+request_response: none
+request_response_time: 0.785
+request_prompt_characters: 711
+request_response: 'the user finds the task too hard'
+request_response_time: 0.608
+request_prompt_characters: 683
+request_response: the user finds the task too hard
+request_response_time: 0.565
+request_prompt_characters: 712
+request_response: the user finds the task too hard
+request_response_time: 0.674
+request_prompt_characters: 754
+request_response: the user finds the task too easy
+request_response_time: 0.768
+request_prompt_characters: 754
+request_response: the user finds the task too easy
+request_response_time: 0.677
+request_prompt_characters: 749
+request_response: the user finds the task too easy
+request_response_time: 0.674
+request_prompt_characters: 744
+request_response: the user finds the task too easy
+request_response_time: 0.566
+request_prompt_characters: 748
+request_response: the user finds the task too easy
+request_response_time: 0.612
+request_prompt_characters: 749
+request_response: the user finds the task too easy
+request_response_time: 0.518
+request_prompt_characters: 733
+request_response: the user finds the task too easy
+request_response_time: 0.894
+request_prompt_characters: 746
+request_response: the user finds the task too easy
+request_response_time: 0.737
+request_prompt_characters: 757
+request_response: the user finds the task too easy
+request_response_time: 0.612
+request_prompt_characters: 727
+request_response: the user finds the task too easy
+request_response_time: 0.752
+request_prompt_characters: 784
+request_response: the user finds the task too easy
+request_response_time: 0.721
+request_prompt_characters: 720
+request_response: the user finds the task too easy
+request_response_time: 0.645
+request_prompt_characters: 718
+request_response: the user finds the task too easy
+request_response_time: 0.526
+request_prompt_characters: 722
+request_response: the user finds the task too easy
+request_response_time: 0.754
+request_prompt_characters: 764
+request_response: the user finds the task too easy
+request_response_time: 0.795
+request_prompt_characters: 711
+request_response: the user finds the task too easy
+request_response_time: 0.677
+request_prompt_characters: 738
+request_response: the user finds the task too easy
+request_response_time: 0.646
+request_prompt_characters: 717
+request_response: the user finds the task too easy
+request_response_time: 0.775
+request_prompt_characters: 726
+request_response: the user finds the task too easy
+request_response_time: 0.858
+request_prompt_characters: 721
+request_response: the user finds the task too easy
+request_response_time: 0.538
+request_prompt_characters: 737
+request_response: the user finds the task too easy
+request_response_time: 1.239
+request_prompt_characters: 738
+request_response: the user finds the task too easy
+request_response_time: 0.657
+request_prompt_characters: 746
+request_response: the user finds the task too easy
+request_response_time: 0.727
+request_prompt_characters: 730
+request_response: the user finds the task too easy
+request_response_time: 0.55
+request_prompt_characters: 748
+request_response: the user finds the task too easy
+request_response_time: 0.862
+request_prompt_characters: 752
+request_response: the user finds the task too easy
+request_response_time: 0.661
+request_prompt_characters: 772
+request_response: the user finds the task too easy
+request_response_time: 0.581
+request_prompt_characters: 752
+request_response: the user finds the task too easy
+request_response_time: 0.803
+request_prompt_characters: 742
+request_response: the user finds the task too easy
+request_response_time: 0.61
+request_prompt_characters: 715
+request_response: the user finds the task too easy
+request_response_time: 1.304
+request_prompt_characters: 752
+request_response: the user finds the task too easy
+request_response_time: 2.02
+request_prompt_characters: 743
+request_response: the user finds the task too easy
+request_response_time: 0.767
+request_prompt_characters: 715
+request_response: the user finds the task too easy
+request_response_time: 5.096
+request_prompt_characters: 719
+request_response: the user finds the task too easy
+request_response_time: 0.831
+request_prompt_characters: 714
+request_response: the user finds the task too easy
+request_response_time: 0.773
+request_prompt_characters: 742
+request_response: the user finds the task too easy
+request_response_time: 0.616
+request_prompt_characters: 731
+request_response: the user finds the task too easy
+request_response_time: 0.724
+request_prompt_characters: 770
+request_response: the user finds the task too easy
+request_response_time: 0.692
+request_prompt_characters: 729
+request_response: the user finds the task too easy
+request_response_time: 0.841
+request_prompt_characters: 737
+request_response: the user finds the task too easy
+request_response_time: 0.85
+request_prompt_characters: 769
+request_response: the user finds the task too easy
+request_response_time: 0.774
+request_prompt_characters: 719
+request_response: the user finds the task too easy
+request_response_time: 0.645
+request_prompt_characters: 767
+request_response: the user finds the task too easy
+request_response_time: 0.817
+request_prompt_characters: 767
+request_response: the user finds the task too easy
+request_response_time: 1.143
+request_prompt_characters: 736
+request_response: the user finds the task too easy
+request_response_time: 0.522
+request_prompt_characters: 729
+request_response: the user finds the task too easy
+request_response_time: 0.636
+request_prompt_characters: 733
+request_response: the user finds the task too easy
+request_response_time: 0.597
+request_prompt_characters: 719
+request_response: the user finds the task too easy
+request_response_time: 0.522
+request_prompt_characters: 729
+request_response: the user finds the task too easy
+request_response_time: 0.664
+request_prompt_characters: 728
+request_response: the user finds the task too easy
+request_response_time: 0.707
+request_prompt_characters: 780
+request_response: 'the user finds the task too easy'
+request_response_time: 0.617
+request_prompt_characters: 775
+request_response: 'the user finds the task too easy'
+request_response_time: 1.062
+request_prompt_characters: 796
+request_response: 'the user finds the task too easy'
+request_response_time: 0.727
+request_prompt_characters: 787
+request_response: the user finds the task too hard
+request_response_time: 0.642
+request_prompt_characters: 800
+request_response: 'the user finds the task too easy'
+request_response_time: 0.758
+request_prompt_characters: 802
+request_response: 'the user finds the task too hard'
+request_response_time: 1.218
+request_prompt_characters: 789
+request_response: 'the user finds the task too easy'
+request_response_time: 0.634
+request_prompt_characters: 765
+request_response: none
+request_response_time: 0.577
+request_prompt_characters: 781
+request_response: none
+request_response_time: 0.635
+request_prompt_characters: 794
+request_response: 'the user finds the task too hard'
+request_response_time: 2.167
+request_prompt_characters: 804
+request_response: 'the user finds the task too easy'
+request_response_time: 0.531
+request_prompt_characters: 788
+request_response: 'the user finds the task too easy'
+request_response_time: 0.468
+request_prompt_characters: 735
+request_response: none
+request_response_time: 0.68
+request_prompt_characters: 782
+request_response: 'the user finds the task too easy'
+request_response_time: 0.508
+request_prompt_characters: 796
+request_response: none
+request_response_time: 0.841
+request_prompt_characters: 794
+request_response: 'the user finds the task too easy'
+request_response_time: 0.832
+request_prompt_characters: 767
+request_response: none
+request_response_time: 0.684
+request_prompt_characters: 801
+request_response: the user finds the task too easy
+request_response_time: 0.662
+request_prompt_characters: 799
+request_response: the user finds the task too easy
+request_response_time: 0.582
+request_prompt_characters: 794
+request_response: 'the user finds the task too hard'
+request_response_time: 0.684
+request_prompt_characters: 786
+request_response: the user finds the task too easy
+request_response_time: 4.012
+request_prompt_characters: 755
+request_response: none
+request_response_time: 0.716
+request_prompt_characters: 783
+request_response: the user finds the task too hard
+request_response_time: 0.738
+request_prompt_characters: 777
+request_response: the user finds the task too hard
+request_response_time: 0.928
+request_prompt_characters: 770
+request_response: 'the user finds the task too hard'
+request_response_time: 0.708
+request_prompt_characters: 774
+request_response: none
+request_response_time: 0.928
+request_prompt_characters: 773
+request_response: 'the user finds the task too easy'
+request_response_time: 0.533
+request_prompt_characters: 780
+request_response: none
+request_response_time: 0.585
+request_prompt_characters: 769
+request_response: 'the user finds the task too easy'
+request_response_time: 0.393
+request_prompt_characters: 788
+request_response: none
+request_response_time: 0.75
+request_prompt_characters: 780
+request_response: 'the user finds the task too easy'
+request_response_time: 0.568
+request_prompt_characters: 766
+request_response: none
+request_response_time: 1.045
+request_prompt_characters: 764
+request_response: none
+request_response_time: 0.508
+request_prompt_characters: 758
+request_response: none
+request_response_time: 0.897
+request_prompt_characters: 775
+request_response: the user finds the task too easy
+request_response_time: 0.562
+request_prompt_characters: 764
+request_response: none
+request_response_time: 0.661
+request_prompt_characters: 771
+request_response: 'the user finds the task too easy'
+request_response_time: 1.015
+request_prompt_characters: 776
+request_response: the user finds the task too easy
+request_response_time: 0.681
+request_prompt_characters: 759
+request_response: none
+request_response_time: 0.73
+request_prompt_characters: 776
+request_response: the user finds the task too easy
+request_response_time: 0.81
+request_prompt_characters: 805
+request_response: the user finds the task too easy
+request_response_time: 0.833
+request_prompt_characters: 764
+request_response: 'the user finds the task too hard'
+request_response_time: 0.667
+request_prompt_characters: 778
+request_response: none
+request_response_time: 0.551
+request_prompt_characters: 782
+request_response: none
+request_response_time: 0.828
+request_prompt_characters: 756
+request_response: the user finds the task too easy
+request_response_time: 0.695
+request_prompt_characters: 768
+request_response: 'the user finds the task too easy'
+request_response_time: 0.569
+request_prompt_characters: 772
+request_response: none
+request_response_time: 1.069
+request_prompt_characters: 755
+request_response: 'the user finds the task too hard'
+request_response_time: 0.561
+request_prompt_characters: 772
+request_response: none
+request_response_time: 0.76
+request_prompt_characters: 767
+request_response: 'the user finds the task too easy'
+request_response_time: 0.751
+request_prompt_characters: 774
+request_response: the user finds the task too hard
+request_response_time: 1.108
+request_prompt_characters: 745
+request_response: 'the user finds the task too hard'
+request_response_time: 1.434
+request_prompt_characters: 789
+request_response: the user finds the task too hard
+request_response_time: 1.219
+request_prompt_characters: 776
+request_response: the user finds the task too hard
+request_response_time: 0.89
+request_prompt_characters: 788
+request_response: the user finds the task too hard
+request_response_time: 0.805
+request_prompt_characters: 826
+request_response: the user finds the task too hard
+request_response_time: 0.674
+request_prompt_characters: 798
+request_response: the user finds the task too hard
+request_response_time: 0.759
+request_prompt_characters: 796
+request_response: the user finds the task too hard
+request_response_time: 0.661
+request_prompt_characters: 793
+request_response: the user finds the task too hard
+request_response_time: 0.97
+request_prompt_characters: 772
+request_response: the user finds the task too hard
+request_response_time: 0.742
+request_prompt_characters: 792
+request_response: the user finds the task too hard
+request_response_time: 0.565
+request_prompt_characters: 797
+request_response: the user finds the task too hard
+request_response_time: 0.667
+request_prompt_characters: 759
+request_response: the user finds the task too hard
+request_response_time: 0.813
+request_prompt_characters: 766
+request_response: the user finds the task too hard
+request_response_time: 0.525
+request_prompt_characters: 804
+request_response: none
+request_response_time: 0.598
+request_prompt_characters: 758
+request_response: the user finds the task too hard
+request_response_time: 0.645
+request_prompt_characters: 767
+request_response: the user finds the task too hard
+request_response_time: 0.678
+request_prompt_characters: 766
+request_response: the user finds the task too hard
+request_response_time: 0.865
+request_prompt_characters: 777
+request_response: the user finds the task too hard
+request_response_time: 0.617
+request_prompt_characters: 773
+request_response: the user finds the task too hard
+request_response_time: 0.737
+request_prompt_characters: 777
+request_response: the user finds the task too hard
+request_response_time: 1.019
+request_prompt_characters: 754
+request_response: the user finds the task too hard
+request_response_time: 0.621
+request_prompt_characters: 766
+request_response: the user finds the task too hard
+request_response_time: 0.565
+request_prompt_characters: 788
+request_response: the user finds the task too hard
+request_response_time: 0.69
+request_prompt_characters: 774
+request_response: the user finds the task too hard
+request_response_time: 0.677
+request_prompt_characters: 761
+request_response: the user finds the task too hard
+request_response_time: 2.029
+request_prompt_characters: 732
+request_response: 'the user finds the task too hard'
+request_response_time: 0.665
+request_prompt_characters: 757
+request_response: the user finds the task too hard
+request_response_time: 0.726
+request_prompt_characters: 758
+request_response: the user finds the task too hard
+request_response_time: 0.797
+request_prompt_characters: 733
+request_response: the user finds the task too hard
+request_response_time: 0.788
+request_prompt_characters: 780
+request_response: the user finds the task too hard
+request_response_time: 0.904
+request_prompt_characters: 760
+request_response: the user finds the task too hard
+request_response_time: 0.561
+request_prompt_characters: 757
+request_response: the user finds the task too hard
+request_response_time: 0.657
+request_prompt_characters: 756
+request_response: the user finds the task too hard
+request_response_time: 0.665
+request_prompt_characters: 788
+request_response: the user finds the task too hard
+request_response_time: 0.559
+request_prompt_characters: 768
+request_response: none
+request_response_time: 0.992
+request_prompt_characters: 783
+request_response: 'the user finds the task too hard'
+request_response_time: 0.507
+request_prompt_characters: 754
+request_response: none
+request_response_time: 0.77
+request_prompt_characters: 756
+request_response: the user finds the task too hard
+request_response_time: 1.036
+request_prompt_characters: 754
+request_response: the user finds the task too hard
+request_response_time: 0.775
+request_prompt_characters: 772
+request_response: the user finds the task too hard
+request_response_time: 0.685
+request_prompt_characters: 745
+request_response: the user finds the task too hard
+request_response_time: 0.647
+request_prompt_characters: 769
+request_response: the user finds the task too hard
+request_response_time: 0.767
+request_prompt_characters: 765
+request_response: the user finds the task too hard
+request_response_time: 0.719
+request_prompt_characters: 744
+request_response: 'the user finds the task too hard'
+request_response_time: 0.69
+request_prompt_characters: 769
+request_response: the user finds the task too hard
+request_response_time: 0.688
+request_prompt_characters: 765
+request_response: the user finds the task too hard
+request_response_time: 0.787
+request_prompt_characters: 729
+request_response: the user finds the task too hard
+request_response_time: 0.69
+request_prompt_characters: 750
+request_response: the user finds the task too hard
+request_response_time: 0.656
+request_prompt_characters: 758
+request_response: 'the user finds the task too hard'
+request_response_time: 0.788
+request_prompt_characters: 862
+request_response: the user finds the task too hard
+request_response_time: 0.887
+request_prompt_characters: 820
+request_response: the user finds the task too hard
+request_response_time: 0.829
+request_prompt_characters: 784
+request_response: the user finds the task too hard
+request_response_time: 0.602
+request_prompt_characters: 785
+request_response: the user finds the task too hard
+request_response_time: 1.108
+request_prompt_characters: 789
+request_response: the user finds the task too hard
+request_response_time: 0.737
+request_prompt_characters: 818
+request_response: the user finds the task too hard
+request_response_time: 0.628
+request_prompt_characters: 767
+request_response: the user finds the task too hard
+request_response_time: 0.625
+request_prompt_characters: 824
+request_response: the user finds the task too hard
+request_response_time: 1.602
+request_prompt_characters: 772
+request_response: the user finds the task too hard
+request_response_time: 0.739
+request_prompt_characters: 767
+request_response: the user finds the task too hard
+request_response_time: 0.83
+request_prompt_characters: 790
+request_response: the user finds the task too hard
+request_response_time: 1.073
+request_prompt_characters: 764
+request_response: the user finds the task too hard
+request_response_time: 0.85
+request_prompt_characters: 764
+request_response: the user finds the task too hard
+request_response_time: 0.886
+request_prompt_characters: 761
+request_response: the user finds the task too hard
+request_response_time: 0.728
+request_prompt_characters: 793
+request_response: the user finds the task too hard
+request_response_time: 0.629
+request_prompt_characters: 782
+request_response: the user finds the task too hard
+request_response_time: 0.545
+request_prompt_characters: 762
+request_response: the user finds the task too hard
+request_response_time: 0.808
+request_prompt_characters: 773
+request_response: the user finds the task too hard
+request_response_time: 0.592
+request_prompt_characters: 797
+request_response: the user finds the task too hard
+request_response_time: 1.174
+request_prompt_characters: 768
+request_response: the user finds the task too hard
+request_response_time: 0.662
+request_prompt_characters: 802
+request_response: the user finds the task too hard
+request_response_time: 0.718
+request_prompt_characters: 782
+request_response: 'the user finds the task too hard'
+request_response_time: 0.69
+request_prompt_characters: 788
+request_response: the user finds the task too hard
+request_response_time: 0.687
+request_prompt_characters: 794
+request_response: the user finds the task too hard
+request_response_time: 0.676
+request_prompt_characters: 757
+request_response: the user finds the task too hard
+request_response_time: 0.712
+request_prompt_characters: 760
+request_response: the user finds the task too hard
+request_response_time: 3.289
+request_prompt_characters: 788
+request_response: the user finds the task too hard
+request_response_time: 0.777
+request_prompt_characters: 761
+request_response: the user finds the task too hard
+request_response_time: 0.707
+request_prompt_characters: 757
+request_response: the user finds the task too hard
+request_response_time: 0.574
+request_prompt_characters: 756
+request_response: the user finds the task too hard
+request_response_time: 0.622
+request_prompt_characters: 788
+request_response: the user finds the task too hard
+request_response_time: 1.112
+request_prompt_characters: 753
+request_response: the user finds the task too hard
+request_response_time: 0.488
+request_prompt_characters: 776
+request_response: the user finds the task too hard
+request_response_time: 0.88
+request_prompt_characters: 750
+request_response: the user finds the task too hard
+request_response_time: 0.755
+request_prompt_characters: 756
+request_response: the user finds the task too hard
+request_response_time: 0.641
+request_prompt_characters: 782
+request_response: the user finds the task too hard
+request_response_time: 0.603
+request_prompt_characters: 797
+request_response: the user finds the task too hard
+request_response_time: 0.702
+request_prompt_characters: 752
+request_response: the user finds the task too hard
+request_response_time: 0.617
+request_prompt_characters: 770
+request_response: the user finds the task too hard
+request_response_time: 0.592
+request_prompt_characters: 769
+request_response: the user finds the task too hard
+request_response_time: 0.606
+request_prompt_characters: 757
+request_response: the user finds the task too hard
+request_response_time: 0.641
+request_prompt_characters: 785
+request_response: the user finds the task too hard
+request_response_time: 0.63
+request_prompt_characters: 804
+request_response: the user finds the task too hard
+request_response_time: 0.62
+request_prompt_characters: 744
+request_response: the user finds the task too hard
+request_response_time: 0.587
+request_prompt_characters: 765
+request_response: the user finds the task too hard
+request_response_time: 0.654
+request_prompt_characters: 765
+request_response: the user finds the task too hard
+request_response_time: 0.689
+request_prompt_characters: 805
+request_response: the user finds the task too hard
+request_response_time: 0.642
+request_prompt_characters: 782
+request_response: the user finds the task too hard
+request_response_time: 0.738
+request_prompt_characters: 765
+request_response: the user finds the task too hard
+request_response_time: 0.819
+request_prompt_characters: 807
+request_response: the user finds the task too hard
+request_response_time: 1.381
+request_prompt_characters: 822
+request_response: 'the user finds the task too easy'
+request_response_time: 0.634
+request_prompt_characters: 832
+request_response: 'the user finds the task too easy'
+request_response_time: 0.953
+request_prompt_characters: 853
+request_response: none
+request_response_time: 0.615
+request_prompt_characters: 825
+request_response: none
+request_response_time: 0.578
+request_prompt_characters: 861
+request_response: none
+request_response_time: 0.439
+request_prompt_characters: 814
+request_response: none
+request_response_time: 0.702
+request_prompt_characters: 815
+request_response: 'the user finds the task too easy'
+request_response_time: 0.517
+request_prompt_characters: 807
+request_response: none
+request_response_time: 0.726
+request_prompt_characters: 832
+request_response: none
+request_response_time: 0.573
+request_prompt_characters: 815
+request_response: none
+request_response_time: 0.598
+request_prompt_characters: 861
+request_response: none
+request_response_time: 0.729
+request_prompt_characters: 840
+request_response: 'the user finds the task too easy'
+request_response_time: 0.451
+request_prompt_characters: 856
+request_response: none
+request_response_time: 0.614
+request_prompt_characters: 836
+request_response: none
+request_response_time: 0.502
+request_prompt_characters: 886
+request_response: none
+request_response_time: 0.639
+request_prompt_characters: 812
+request_response: none
+request_response_time: 0.643
+request_prompt_characters: 841
+request_response: none
+request_response_time: 0.668
+request_prompt_characters: 840
+request_response: none
+request_response_time: 0.553
+request_prompt_characters: 823
+request_response: none
+request_response_time: 0.447
+request_prompt_characters: 855
+request_response: none
+request_response_time: 0.412
+request_prompt_characters: 854
+request_response: none
+request_response_time: 0.516
+request_prompt_characters: 815
+request_response: none
+request_response_time: 0.991
+request_prompt_characters: 838
+request_response: none
+request_response_time: 0.64
+request_prompt_characters: 848
+request_response: none
+request_response_time: 0.627
+request_prompt_characters: 842
+request_response: none
+request_response_time: 0.57
+request_prompt_characters: 846
+request_response: none
+request_response_time: 2.942
+request_prompt_characters: 839
+request_response: 'the user finds the task too easy'
+request_response_time: 0.43
+request_prompt_characters: 825
+request_response: none
+request_response_time: 0.768
+request_prompt_characters: 832
+request_response: none
+request_response_time: 4.081
+request_prompt_characters: 847
+request_response: none
+request_response_time: 0.81
+request_prompt_characters: 833
+request_response: none
+request_response_time: 0.484
+request_prompt_characters: 833
+request_response: none
+request_response_time: 0.53
+request_prompt_characters: 851
+request_response: none
+request_response_time: 0.638
+request_prompt_characters: 849
+request_response: 'the user finds the task too easy'
+request_response_time: 0.603
+request_prompt_characters: 823
+request_response: none
+request_response_time: 0.681
+request_prompt_characters: 843
+request_response: none
+request_response_time: 0.577
+request_prompt_characters: 848
+request_response: none
+request_response_time: 0.753
+request_prompt_characters: 824
+request_response: none
+request_response_time: 0.583
+request_prompt_characters: 826
+request_response: none
+request_response_time: 0.536
+request_prompt_characters: 837
+request_response: none
+request_response_time: 0.739
+request_prompt_characters: 818
+request_response: none
+request_response_time: 0.542
+request_prompt_characters: 837
+request_response: none
+request_response_time: 0.585
+request_prompt_characters: 847
+request_response: none
+request_response_time: 0.707
+request_prompt_characters: 837
+request_response: 'the user finds the task too easy'
+request_response_time: 0.403
+request_prompt_characters: 848
+request_response: none
+request_response_time: 0.564
+request_prompt_characters: 833
+request_response: none
+request_response_time: 0.517
+request_prompt_characters: 843
+request_response: none
+request_response_time: 0.583
+request_prompt_characters: 831
+request_response: none
+request_response_time: 0.948
+request_prompt_characters: 810
+request_response: 'the user finds the task too easy'
+request_response_time: 0.962
+request_prompt_characters: 843
+request_response: none
+request_response_time: 0.521
+request_prompt_characters: 866
+request_response: none
+request_response_time: 0.459
+request_prompt_characters: 856
+request_response: none
+request_response_time: 0.577
+request_prompt_characters: 836
+request_response: none
+request_response_time: 0.595
+request_prompt_characters: 840
+request_response: none
+request_response_time: 1.041
+request_prompt_characters: 827
+request_response: none
+request_response_time: 0.532
+request_prompt_characters: 790
+request_response: none
+request_response_time: 0.47
+request_prompt_characters: 815
+request_response: none
+request_response_time: 0.532
+request_prompt_characters: 833
+request_response: none
+request_response_time: 0.628
+request_prompt_characters: 830
+request_response: none
+request_response_time: 1.131
+request_prompt_characters: 798
+request_response: none
+request_response_time: 0.407
+request_prompt_characters: 836
+request_response: none
+request_response_time: 0.814
+request_prompt_characters: 809
+request_response: none
+request_response_time: 0.815
+request_prompt_characters: 805
+request_response: none
+request_response_time: 0.768
+request_prompt_characters: 799
+request_response: 'the user finds the task too hard'
+request_response_time: 0.616
+request_prompt_characters: 817
+request_response: none
+request_response_time: 0.987
+request_prompt_characters: 781
+request_response: 'the user finds the task too hard'
+request_response_time: 0.689
+request_prompt_characters: 803
+request_response: the user finds the task too hard
+request_response_time: 0.472
+request_prompt_characters: 791
+request_response: none
+request_response_time: 0.521
+request_prompt_characters: 806
+request_response: none
+request_response_time: 0.548
+request_prompt_characters: 833
+request_response: none
+request_response_time: 0.487
+request_prompt_characters: 826
+request_response: none
+request_response_time: 0.723
+request_prompt_characters: 828
+request_response: none
+request_response_time: 0.459
+request_prompt_characters: 824
+request_response: none
+request_response_time: 0.558
+request_prompt_characters: 840
+request_response: none
+request_response_time: 0.536
+request_prompt_characters: 823
+request_response: none
+request_response_time: 0.774
+request_prompt_characters: 857
+request_response: none
+request_response_time: 0.534
+request_prompt_characters: 794
+request_response: none
+request_response_time: 0.488
+request_prompt_characters: 821
+request_response: none
+request_response_time: 0.705
+request_prompt_characters: 807
+request_response: none
+request_response_time: 0.562
+request_prompt_characters: 827
+request_response: none
+request_response_time: 0.533
+request_prompt_characters: 872
+request_response: none
+request_response_time: 0.823
+request_prompt_characters: 845
+request_response: 'the user finds the task too hard'
+request_response_time: 0.612
+request_prompt_characters: 859
+request_response: none
+request_response_time: 0.486
+request_prompt_characters: 842
+request_response: none
+request_response_time: 0.565
+request_prompt_characters: 819
+request_response: none
+request_response_time: 0.645
+request_prompt_characters: 879
+request_response: none
+request_response_time: 0.565
+request_prompt_characters: 843
+request_response: none
+request_response_time: 0.551
+request_prompt_characters: 874
+request_response: none
+request_response_time: 0.551
+request_prompt_characters: 808
+request_response: none
+request_response_time: 0.564
+request_prompt_characters: 836
+request_response: none
+request_response_time: 0.63
+request_prompt_characters: 826
+request_response: none
+request_response_time: 0.649
+request_prompt_characters: 816
+request_response: none
+request_response_time: 0.545
+request_prompt_characters: 833
+request_response: none
+request_response_time: 0.742
+request_prompt_characters: 807
+request_response: none
+request_response_time: 0.564
+request_prompt_characters: 853
+request_response: none
+request_response_time: 0.565
+request_prompt_characters: 843
+request_response: none
+request_response_time: 0.674
+request_prompt_characters: 828
+request_response: 'the user finds the task too hard'
+request_response_time: 0.642
+request_prompt_characters: 852
+request_response: none
+request_response_time: 0.58
+request_prompt_characters: 832
+request_response: none
+request_response_time: 0.422
+request_prompt_characters: 822
+request_response: none
+request_response_time: 0.937
+request_prompt_characters: 595
+request_response: the user finds the task too hard
+request_response_time: 0.779
+request_prompt_characters: 597
+request_response: 'the user finds the task too hard'
+request_response_time: 0.655
+request_prompt_characters: 566
+request_response: the user finds the task too hard
+request_response_time: 0.523
+request_prompt_characters: 584
+request_response: the user finds the task too hard
+request_response_time: 0.665
+request_prompt_characters: 599
+request_response: the user finds the task too hard
+request_response_time: 0.679
+request_prompt_characters: 597
+request_response: the user finds the task too hard
+request_response_time: 0.819
+request_prompt_characters: 580
+request_response: the user finds the task too hard
+request_response_time: 0.647
+request_prompt_characters: 558
+request_response: the user finds the task too hard
+request_response_time: 0.864
+request_prompt_characters: 569
+request_response: the user finds the task too hard
+request_response_time: 0.833
+request_prompt_characters: 579
+request_response: 'the user finds the task too hard'
+request_response_time: 0.598
+request_prompt_characters: 598
+request_response: the user finds the task too hard
+request_response_time: 0.675
+request_prompt_characters: 599
+request_response: the user finds the task too hard
+request_response_time: 0.832
+request_prompt_characters: 584
+request_response: 'the user finds the task too hard'
+request_response_time: 1.087
+request_prompt_characters: 618
+request_response: the user finds the task too hard
+request_response_time: 1.1
+request_prompt_characters: 612
+request_response: 'the user finds the task too hard'
+request_response_time: 0.63
+request_prompt_characters: 577
+request_response: the user finds the task too hard
+request_response_time: 0.902
+request_prompt_characters: 564
+request_response: the user finds the task too hard
+request_response_time: 0.598
+request_prompt_characters: 617
+request_response: the user finds the task too hard
+request_response_time: 0.69
+request_prompt_characters: 606
+request_response: the user finds the task too hard
+request_response_time: 0.627
+request_prompt_characters: 602
+request_response: the user finds the task too hard
+request_response_time: 1.147
+request_prompt_characters: 602
+request_response: 'the user finds the task too hard'
+request_response_time: 1.323
+request_prompt_characters: 591
+request_response: none
+request_response_time: 0.676
+request_prompt_characters: 594
+request_response: the user finds the task too hard
+request_response_time: 0.641
+request_prompt_characters: 573
+request_response: the user finds the task too hard
+request_response_time: 0.674
+request_prompt_characters: 585
+request_response: the user finds the task too hard
+request_response_time: 0.647
+request_prompt_characters: 585
+request_response: the user finds the task too hard
+request_response_time: 0.607
+request_prompt_characters: 573
+request_response: none
+request_response_time: 1.048
+request_prompt_characters: 578
+request_response: the user finds the task too hard
+request_response_time: 1.176
+request_prompt_characters: 596
+request_response: 'the user finds the task too hard'
+request_response_time: 0.782
+request_prompt_characters: 604
+request_response: the user finds the task too hard
+request_response_time: 0.727
+request_prompt_characters: 595
+request_response: none
+request_response_time: 0.697
+request_prompt_characters: 587
+request_response: 'the user finds the task too hard'
+request_response_time: 0.729
+request_prompt_characters: 571
+request_response: 'the user finds the task too hard'
+request_response_time: 0.603
+request_prompt_characters: 559
+request_response: the user finds the task too hard
+request_response_time: 0.727
+request_prompt_characters: 594
+request_response: none
+request_response_time: 0.551
+request_prompt_characters: 573
+request_response: the user finds the task too hard
+request_response_time: 0.569
+request_prompt_characters: 595
+request_response: none
+request_response_time: 0.597
+request_prompt_characters: 586
+request_response: the user finds the task too hard
+request_response_time: 0.736
+request_prompt_characters: 589
+request_response: 'the user finds the task too hard'
+request_response_time: 0.565
+request_prompt_characters: 564
+request_response: the user finds the task too hard
+request_response_time: 0.708
+request_prompt_characters: 583
+request_response: 'the user finds the task too hard'
+request_response_time: 0.724
+request_prompt_characters: 553
+request_response: the user finds the task too hard
+request_response_time: 0.933
+request_prompt_characters: 602
+request_response: 'the user finds the task too hard'
+request_response_time: 0.558
+request_prompt_characters: 568
+request_response: none
+request_response_time: 0.607
+request_prompt_characters: 568
+request_response: the user finds the task too hard
+request_response_time: 0.755
+request_prompt_characters: 566
+request_response: the user finds the task too hard
+request_response_time: 0.618
+request_prompt_characters: 600
+request_response: none
+request_response_time: 0.677
+request_prompt_characters: 573
+request_response: 'the user finds the task too hard'
+request_response_time: 0.863
+request_prompt_characters: 563
+request_response: the user finds the task too hard
+request_response_time: 0.658
+request_prompt_characters: 594
+request_response: the user finds the task too hard
+request_response_time: 0.692
+request_prompt_characters: 597
+request_response: the user finds the task too easy
+request_response_time: 0.811
+request_prompt_characters: 587
+request_response: the user finds the task too easy
+request_response_time: 0.689
+request_prompt_characters: 596
+request_response: the user finds the task too easy
+request_response_time: 0.643
+request_prompt_characters: 580
+request_response: the user finds the task too easy
+request_response_time: 0.579
+request_prompt_characters: 601
+request_response: the user finds the task too easy
+request_response_time: 0.613
+request_prompt_characters: 603
+request_response: the user finds the task too easy
+request_response_time: 0.772
+request_prompt_characters: 583
+request_response: the user finds the task too easy
+request_response_time: 0.936
+request_prompt_characters: 605
+request_response: 'the user finds the task too easy'
+request_response_time: 0.666
+request_prompt_characters: 593
+request_response: the user finds the task too easy
+request_response_time: 0.776
+request_prompt_characters: 579
+request_response: the user finds the task too easy
+request_response_time: 0.626
+request_prompt_characters: 625
+request_response: the user finds the task too easy
+request_response_time: 4.218
+request_prompt_characters: 565
+request_response: the user finds the task too easy
+request_response_time: 0.611
+request_prompt_characters: 572
+request_response: the user finds the task too easy
+request_response_time: 0.486
+request_prompt_characters: 581
+request_response: the user finds the task too easy
+request_response_time: 0.705
+request_prompt_characters: 619
+request_response: the user finds the task too easy
+request_response_time: 0.561
+request_prompt_characters: 573
+request_response: the user finds the task too easy
+request_response_time: 0.583
+request_prompt_characters: 599
+request_response: the user finds the task too easy
+request_response_time: 0.691
+request_prompt_characters: 574
+request_response: the user finds the task too easy
+request_response_time: 0.836
+request_prompt_characters: 568
+request_response: the user finds the task too easy
+request_response_time: 0.788
+request_prompt_characters: 575
+request_response: the user finds the task too easy
+request_response_time: 1.269
+request_prompt_characters: 585
+request_response: the user finds the task too easy
+request_response_time: 2.371
+request_prompt_characters: 588
+request_response: the user finds the task too easy
+request_response_time: 0.586
+request_prompt_characters: 589
+request_response: the user finds the task too easy
+request_response_time: 0.703
+request_prompt_characters: 585
+request_response: the user finds the task too easy
+request_response_time: 0.757
+request_prompt_characters: 590
+request_response: the user finds the task too easy
+request_response_time: 0.817
+request_prompt_characters: 592
+request_response: the user finds the task too easy
+request_response_time: 0.708
+request_prompt_characters: 602
+request_response: the user finds the task too easy
+request_response_time: 0.55
+request_prompt_characters: 587
+request_response: the user finds the task too easy
+request_response_time: 0.626
+request_prompt_characters: 590
+request_response: the user finds the task too easy
+request_response_time: 0.629
+request_prompt_characters: 579
+request_response: the user finds the task too easy
+request_response_time: 0.69
+request_prompt_characters: 597
+request_response: the user finds the task too easy
+request_response_time: 0.627
+request_prompt_characters: 599
+request_response: the user finds the task too easy
+request_response_time: 0.724
+request_prompt_characters: 576
+request_response: the user finds the task too easy
+request_response_time: 0.595
+request_prompt_characters: 582
+request_response: the user finds the task too easy
+request_response_time: 0.635
+request_prompt_characters: 572
+request_response: the user finds the task too easy
+request_response_time: 0.629
+request_prompt_characters: 595
+request_response: the user finds the task too easy
+request_response_time: 1.105
+request_prompt_characters: 585
+request_response: the user finds the task too easy
+request_response_time: 0.573
+request_prompt_characters: 613
+request_response: the user finds the task too easy
+request_response_time: 3.06
+request_prompt_characters: 575
+request_response: none
+request_response_time: 0.852
+request_prompt_characters: 595
+request_response: the user finds the task too easy
+request_response_time: 0.822
+request_prompt_characters: 606
+request_response: the user finds the task too easy
+request_response_time: 0.542
+request_prompt_characters: 580
+request_response: the user finds the task too easy
+request_response_time: 0.613
+request_prompt_characters: 625
+request_response: the user finds the task too easy
+request_response_time: 0.581
+request_prompt_characters: 611
+request_response: the user finds the task too easy
+request_response_time: 1.107
+request_prompt_characters: 594
+request_response: the user finds the task too easy
+request_response_time: 0.602
+request_prompt_characters: 586
+request_response: the user finds the task too easy
+request_response_time: 1.234
+request_prompt_characters: 588
+request_response: the user finds the task too easy
+request_response_time: 0.582
+request_prompt_characters: 571
+request_response: the user finds the task too easy
+request_response_time: 0.865
+request_prompt_characters: 581
+request_response: the user finds the task too easy
+request_response_time: 5.174
+request_prompt_characters: 591
+request_response: the user finds the task too easy
+request_response_time: 0.611
+request_prompt_characters: 612
+request_response: none
+request_response_time: 0.616
+request_prompt_characters: 610
+request_response: 'the user finds the task too hard'
+request_response_time: 0.522
+request_prompt_characters: 634
+request_response: none
+request_response_time: 0.684
+request_prompt_characters: 624
+request_response: the user finds the task too hard
+request_response_time: 0.634
+request_prompt_characters: 623
+request_response: 'the user finds the task too hard'
+request_response_time: 1.543
+request_prompt_characters: 630
+request_response: 'the user finds the task too hard'
+request_response_time: 0.89
+request_prompt_characters: 606
+request_response: 'the user finds the task too hard'
+request_response_time: 0.569
+request_prompt_characters: 608
+request_response: none
+request_response_time: 0.761
+request_prompt_characters: 608
+request_response: none
+request_response_time: 0.827
+request_prompt_characters: 622
+request_response: the user finds the task too hard
+request_response_time: 0.387
+request_prompt_characters: 627
+request_response: none
+request_response_time: 4.02
+request_prompt_characters: 615
+request_response: 'the user finds the task too easy'
+request_response_time: 0.54
+request_prompt_characters: 586
+request_response: none
+request_response_time: 0.471
+request_prompt_characters: 624
+request_response: none
+request_response_time: 0.58
+request_prompt_characters: 628
+request_response: none
+request_response_time: 0.841
+request_prompt_characters: 631
+request_response: 'the user finds the task too easy'
+request_response_time: 0.879
+request_prompt_characters: 604
+request_response: the user finds the task too easy
+request_response_time: 0.878
+request_prompt_characters: 634
+request_response: none
+request_response_time: 0.763
+request_prompt_characters: 637
+request_response: 'the user finds the task too easy'
+request_response_time: 0.782
+request_prompt_characters: 601
+request_response: the user finds the task too hard
+request_response_time: 0.713
+request_prompt_characters: 613
+request_response: 'the user finds the task too easy'
+request_response_time: 0.583
+request_prompt_characters: 601
+request_response: none
+request_response_time: 0.658
+request_prompt_characters: 615
+request_response: the user finds the task too hard
+request_response_time: 0.69
+request_prompt_characters: 617
+request_response: 'the user finds the task too hard'
+request_response_time: 0.842
+request_prompt_characters: 612
+request_response: the user finds the task too hard
+request_response_time: 0.868
+request_prompt_characters: 618
+request_response: the user finds the task too hard
+request_response_time: 0.938
+request_prompt_characters: 617
+request_response: 'the user finds the task too easy'
+request_response_time: 0.561
+request_prompt_characters: 609
+request_response: none
+request_response_time: 0.391
+request_prompt_characters: 605
+request_response: none
+request_response_time: 0.871
+request_prompt_characters: 623
+request_response: the user finds the task too hard
+request_response_time: 0.62
+request_prompt_characters: 618
+request_response: the user finds the task too easy
+request_response_time: 0.469
+request_prompt_characters: 604
+request_response: none
+request_response_time: 0.672
+request_prompt_characters: 602
+request_response: the user finds the task too hard
+request_response_time: 1.051
+request_prompt_characters: 595
+request_response: the user finds the task too hard
+request_response_time: 0.758
+request_prompt_characters: 613
+request_response: the user finds the task too easy
+request_response_time: 0.555
+request_prompt_characters: 607
+request_response: none
+request_response_time: 0.623
+request_prompt_characters: 619
+request_response: none
+request_response_time: 0.901
+request_prompt_characters: 606
+request_response: 'the user finds the task too easy'
+request_response_time: 0.612
+request_prompt_characters: 596
+request_response: none
+request_response_time: 0.657
+request_prompt_characters: 616
+request_response: 'the user finds the task too easy'
+request_response_time: 0.644
+request_prompt_characters: 633
+request_response: 'the user finds the task too easy'
+request_response_time: 0.688
+request_prompt_characters: 604
+request_response: the user finds the task too hard
+request_response_time: 1.036
+request_prompt_characters: 616
+request_response: none
+request_response_time: 0.673
+request_prompt_characters: 619
+request_response: 'the user finds the task too easy'
+request_response_time: 0.751
+request_prompt_characters: 604
+request_response: 'the user finds the task too easy'
+request_response_time: 0.472
+request_prompt_characters: 606
+request_response: none
+request_response_time: 0.86
+request_prompt_characters: 615
+request_response: none
+request_response_time: 0.639
+request_prompt_characters: 598
+request_response: 'the user finds the task too hard'
+request_response_time: 0.565
+request_prompt_characters: 609
+request_response: none
+request_response_time: 0.893
+request_prompt_characters: 611
+request_response: the user finds the task too easy
+request_response_time: 1.08
+request_prompt_characters: 598
+request_response: the user finds the task too hard
+request_response_time: 1.08
+request_prompt_characters: 581
+request_response: the user finds the task too hard
+request_response_time: 0.815
+request_prompt_characters: 611
+request_response: the user finds the task too hard
+request_response_time: 0.625
+request_prompt_characters: 599
+request_response: the user finds the task too hard
+request_response_time: 0.846
+request_prompt_characters: 607
+request_response: the user finds the task too hard
+request_response_time: 0.626
+request_prompt_characters: 634
+request_response: the user finds the task too hard
+request_response_time: 1.199
+request_prompt_characters: 616
+request_response: the user finds the task too hard
+request_response_time: 0.955
+request_prompt_characters: 623
+request_response: the user finds the task too hard
+request_response_time: 0.532
+request_prompt_characters: 605
+request_response: the user finds the task too hard
+request_response_time: 0.657
+request_prompt_characters: 609
+request_response: the user finds the task too hard
+request_response_time: 0.579
+request_prompt_characters: 618
+request_response: the user finds the task too hard
+request_response_time: 0.595
+request_prompt_characters: 611
+request_response: the user finds the task too hard
+request_response_time: 0.704
+request_prompt_characters: 601
+request_response: the user finds the task too hard
+request_response_time: 0.876
+request_prompt_characters: 610
+request_response: the user finds the task too hard
+request_response_time: 0.532
+request_prompt_characters: 628
+request_response: none
+request_response_time: 0.471
+request_prompt_characters: 595
+request_response: the user finds the task too hard
+request_response_time: 0.627
+request_prompt_characters: 602
+request_response: the user finds the task too hard
+request_response_time: 0.502
+request_prompt_characters: 605
+request_response: the user finds the task too hard
+request_response_time: 1.049
+request_prompt_characters: 590
+request_response: the user finds the task too hard
+request_response_time: 1.221
+request_prompt_characters: 614
+request_response: the user finds the task too hard
+request_response_time: 0.586
+request_prompt_characters: 605
+request_response: the user finds the task too hard
+request_response_time: 0.736
+request_prompt_characters: 592
+request_response: the user finds the task too hard
+request_response_time: 0.639
+request_prompt_characters: 614
+request_response: the user finds the task too hard
+request_response_time: 0.783
+request_prompt_characters: 616
+request_response: none
+request_response_time: 0.663
+request_prompt_characters: 596
+request_response: the user finds the task too hard
+request_response_time: 0.757
+request_prompt_characters: 602
+request_response: the user finds the task too hard
+request_response_time: 1.138
+request_prompt_characters: 583
+request_response: 'the user finds the task too hard'
+request_response_time: 0.694
+request_prompt_characters: 601
+request_response: the user finds the task too hard
+request_response_time: 0.692
+request_prompt_characters: 600
+request_response: the user finds the task too hard
+request_response_time: 0.818
+request_prompt_characters: 588
+request_response: the user finds the task too hard
+request_response_time: 0.661
+request_prompt_characters: 592
+request_response: the user finds the task too hard
+request_response_time: 0.828
+request_prompt_characters: 602
+request_response: the user finds the task too hard
+request_response_time: 0.959
+request_prompt_characters: 598
+request_response: the user finds the task too hard
+request_response_time: 0.597
+request_prompt_characters: 586
+request_response: the user finds the task too hard
+request_response_time: 0.642
+request_prompt_characters: 612
+request_response: the user finds the task too hard
+request_response_time: 0.784
+request_prompt_characters: 616
+request_response: the user finds the task too hard
+request_response_time: 0.636
+request_prompt_characters: 613
+request_response: the user finds the task too hard
+request_response_time: 0.607
+request_prompt_characters: 610
+request_response: the user finds the task too hard
+request_response_time: 0.689
+request_prompt_characters: 603
+request_response: the user finds the task too hard
+request_response_time: 0.66
+request_prompt_characters: 611
+request_response: the user finds the task too hard
+request_response_time: 0.672
+request_prompt_characters: 604
+request_response: the user finds the task too hard
+request_response_time: 0.647
+request_prompt_characters: 580
+request_response: the user finds the task too hard
+request_response_time: 0.63
+request_prompt_characters: 606
+request_response: the user finds the task too hard
+request_response_time: 0.608
+request_prompt_characters: 607
+request_response: the user finds the task too hard
+request_response_time: 0.413
+request_prompt_characters: 593
+request_response: none
+request_response_time: 0.806
+request_prompt_characters: 614
+request_response: 'the user finds the task too hard'
+request_response_time: 0.763
+request_prompt_characters: 598
+request_response: 'the user finds the task too hard'
+request_response_time: 1.163
+request_prompt_characters: 581
+request_response: the user finds the task too hard
+request_response_time: 0.618
+request_prompt_characters: 605
+request_response: the user finds the task too hard
+request_response_time: 0.531
+request_prompt_characters: 606
+request_response: 'the user finds the task too hard'
+request_response_time: 0.632
+request_prompt_characters: 668
+request_response: the user finds the task too hard
+request_response_time: 1.026
+request_prompt_characters: 620
+request_response: the user finds the task too hard
+request_response_time: 0.614
+request_prompt_characters: 625
+request_response: the user finds the task too hard
+request_response_time: 0.558
+request_prompt_characters: 627
+request_response: the user finds the task too hard
+request_response_time: 0.937
+request_prompt_characters: 615
+request_response: the user finds the task too hard
+request_response_time: 0.734
+request_prompt_characters: 643
+request_response: the user finds the task too hard
+request_response_time: 1.343
+request_prompt_characters: 594
+request_response: the user finds the task too hard
+request_response_time: 4.298
+request_prompt_characters: 641
+request_response: the user finds the task too hard
+request_response_time: 0.849
+request_prompt_characters: 601
+request_response: the user finds the task too hard
+request_response_time: 0.703
+request_prompt_characters: 603
+request_response: 'the user finds the task too hard'
+request_response_time: 0.59
+request_prompt_characters: 617
+request_response: the user finds the task too hard
+request_response_time: 0.617
+request_prompt_characters: 593
+request_response: the user finds the task too hard
+request_response_time: 1.204
+request_prompt_characters: 612
+request_response: the user finds the task too hard
+request_response_time: 0.633
+request_prompt_characters: 610
+request_response: the user finds the task too hard
+request_response_time: 0.614
+request_prompt_characters: 618
+request_response: the user finds the task too hard
+request_response_time: 0.623
+request_prompt_characters: 625
+request_response: the user finds the task too hard
+request_response_time: 0.523
+request_prompt_characters: 608
+request_response: the user finds the task too hard
+request_response_time: 0.672
+request_prompt_characters: 622
+request_response: the user finds the task too hard
+request_response_time: 0.755
+request_prompt_characters: 641
+request_response: the user finds the task too hard
+request_response_time: 0.597
+request_prompt_characters: 600
+request_response: the user finds the task too hard
+request_response_time: 0.517
+request_prompt_characters: 622
+request_response: the user finds the task too hard
+request_response_time: 0.643
+request_prompt_characters: 615
+request_response: the user finds the task too hard
+request_response_time: 0.673
+request_prompt_characters: 607
+request_response: the user finds the task too hard
+request_response_time: 0.551
+request_prompt_characters: 626
+request_response: the user finds the task too hard
+request_response_time: 0.73
+request_prompt_characters: 591
+request_response: the user finds the task too hard
+request_response_time: 0.608
+request_prompt_characters: 612
+request_response: the user finds the task too hard
+request_response_time: 0.556
+request_prompt_characters: 634
+request_response: the user finds the task too hard
+request_response_time: 0.585
+request_prompt_characters: 615
+request_response: the user finds the task too hard
+request_response_time: 0.723
+request_prompt_characters: 603
+request_response: the user finds the task too hard
+request_response_time: 0.577
+request_prompt_characters: 616
+request_response: the user finds the task too hard
+request_response_time: 0.625
+request_prompt_characters: 612
+request_response: the user finds the task too hard
+request_response_time: 1.097
+request_prompt_characters: 604
+request_response: the user finds the task too hard
+request_response_time: 0.972
+request_prompt_characters: 606
+request_response: the user finds the task too hard
+request_response_time: 0.61
+request_prompt_characters: 600
+request_response: the user finds the task too hard
+request_response_time: 0.682
+request_prompt_characters: 620
+request_response: the user finds the task too hard
+request_response_time: 0.609
+request_prompt_characters: 614
+request_response: the user finds the task too hard
+request_response_time: 0.62
+request_prompt_characters: 624
+request_response: the user finds the task too hard
+request_response_time: 0.638
+request_prompt_characters: 606
+request_response: the user finds the task too hard
+request_response_time: 0.656
+request_prompt_characters: 620
+request_response: the user finds the task too hard
+request_response_time: 0.526
+request_prompt_characters: 597
+request_response: the user finds the task too hard
+request_response_time: 0.705
+request_prompt_characters: 604
+request_response: the user finds the task too hard
+request_response_time: 0.643
+request_prompt_characters: 616
+request_response: the user finds the task too hard
+request_response_time: 0.724
+request_prompt_characters: 629
+request_response: the user finds the task too hard
+request_response_time: 0.66
+request_prompt_characters: 589
+request_response: the user finds the task too hard
+request_response_time: 0.84
+request_prompt_characters: 622
+request_response: the user finds the task too hard
+request_response_time: 0.533
+request_prompt_characters: 622
+request_response: the user finds the task too hard
+request_response_time: 0.917
+request_prompt_characters: 649
+request_response: the user finds the task too hard
+request_response_time: 0.643
+request_prompt_characters: 631
+request_response: the user finds the task too hard
+request_response_time: 0.678
+request_prompt_characters: 611
+request_response: the user finds the task too hard
+request_response_time: 0.591
+request_prompt_characters: 632
+request_response: the user finds the task too hard
+request_response_time: 0.689
+request_prompt_characters: 664
+request_response: 'the user finds the task too easy'
+request_response_time: 0.459
+request_prompt_characters: 642
+request_response: none
+request_response_time: 0.51
+request_prompt_characters: 674
+request_response: none
+request_response_time: 0.56
+request_prompt_characters: 642
+request_response: none
+request_response_time: 0.565
+request_prompt_characters: 692
+request_response: none
+request_response_time: 0.609
+request_prompt_characters: 656
+request_response: none
+request_response_time: 1.072
+request_prompt_characters: 652
+request_response: 'the user finds the task too easy'
+request_response_time: 0.505
+request_prompt_characters: 640
+request_response: none
+request_response_time: 0.536
+request_prompt_characters: 661
+request_response: none
+request_response_time: 0.524
+request_prompt_characters: 652
+request_response: none
+request_response_time: 0.544
+request_prompt_characters: 673
+request_response: none
+request_response_time: 0.582
+request_prompt_characters: 664
+request_response: none
+request_response_time: 1.091
+request_prompt_characters: 677
+request_response: none
+request_response_time: 0.547
+request_prompt_characters: 668
+request_response: none
+request_response_time: 0.625
+request_prompt_characters: 699
+request_response: none
+request_response_time: 0.675
+request_prompt_characters: 646
+request_response: none
+request_response_time: 0.557
+request_prompt_characters: 659
+request_response: none
+request_response_time: 0.531
+request_prompt_characters: 655
+request_response: none
+request_response_time: 0.593
+request_prompt_characters: 665
+request_response: none
+request_response_time: 0.594
+request_prompt_characters: 658
+request_response: none
+request_response_time: 0.528
+request_prompt_characters: 673
+request_response: none
+request_response_time: 0.95
+request_prompt_characters: 630
+request_response: none
+request_response_time: 0.531
+request_prompt_characters: 659
+request_response: none
+request_response_time: 0.651
+request_prompt_characters: 659
+request_response: 'the user finds the task too easy'
+request_response_time: 0.823
+request_prompt_characters: 652
+request_response: none
+request_response_time: 0.534
+request_prompt_characters: 670
+request_response: none
+request_response_time: 0.494
+request_prompt_characters: 668
+request_response: 'the user finds the task too easy'
+request_response_time: 0.54
+request_prompt_characters: 635
+request_response: none
+request_response_time: 0.668
+request_prompt_characters: 655
+request_response: 'the user finds the task too easy'
+request_response_time: 0.376
+request_prompt_characters: 644
+request_response: none
+request_response_time: 0.838
+request_prompt_characters: 641
+request_response: none
+request_response_time: 1.309
+request_prompt_characters: 655
+request_response: none
+request_response_time: 0.365
+request_prompt_characters: 655
+request_response: none
+request_response_time: 0.76
+request_prompt_characters: 662
+request_response: 'the user finds the task too easy'
+request_response_time: 0.539
+request_prompt_characters: 645
+request_response: none
+request_response_time: 0.447
+request_prompt_characters: 659
+request_response: none
+request_response_time: 0.635
+request_prompt_characters: 655
+request_response: none
+request_response_time: 0.471
+request_prompt_characters: 636
+request_response: none
+request_response_time: 0.556
+request_prompt_characters: 649
+request_response: none
+request_response_time: 1.902
+request_prompt_characters: 659
+request_response: none
+request_response_time: 0.556
+request_prompt_characters: 660
+request_response: none
+request_response_time: 0.452
+request_prompt_characters: 663
+request_response: none
+request_response_time: 0.665
+request_prompt_characters: 663
+request_response: none
+request_response_time: 0.669
+request_prompt_characters: 651
+request_response: 'the user finds the task too easy'
+request_response_time: 0.514
+request_prompt_characters: 642
+request_response: none
+request_response_time: 0.546
+request_prompt_characters: 645
+request_response: none
+request_response_time: 0.483
+request_prompt_characters: 662
+request_response: none
+request_response_time: 0.592
+request_prompt_characters: 643
+request_response: none
+request_response_time: 0.903
+request_prompt_characters: 628
+request_response: 'the user finds the task too easy'
+request_response_time: 0.944
+request_prompt_characters: 659
+request_response: 'the user finds the task too easy'
+request_response_time: 0.567
+request_prompt_characters: 695
+request_response: none
+request_response_time: 0.669
+request_prompt_characters: 675
+request_response: none
+request_response_time: 0.531
+request_prompt_characters: 656
+request_response: none
+request_response_time: 0.653
+request_prompt_characters: 662
+request_response: none
+request_response_time: 0.632
+request_prompt_characters: 665
+request_response: none
+request_response_time: 0.612
+request_prompt_characters: 636
+request_response: none
+request_response_time: 0.631
+request_prompt_characters: 648
+request_response: none
+request_response_time: 0.566
+request_prompt_characters: 663
+request_response: none
+request_response_time: 0.501
+request_prompt_characters: 653
+request_response: none
+request_response_time: 0.521
+request_prompt_characters: 643
+request_response: none
+request_response_time: 0.469
+request_prompt_characters: 657
+request_response: none
+request_response_time: 0.657
+request_prompt_characters: 647
+request_response: none
+request_response_time: 0.556
+request_prompt_characters: 649
+request_response: none
+request_response_time: 0.61
+request_prompt_characters: 633
+request_response: none
+request_response_time: 0.616
+request_prompt_characters: 645
+request_response: the user finds the task too hard
+request_response_time: 0.597
+request_prompt_characters: 621
+request_response: none
+request_response_time: 0.874
+request_prompt_characters: 640
+request_response: the user finds the task too hard
+request_response_time: 0.542
+request_prompt_characters: 629
+request_response: none
+request_response_time: 0.953
+request_prompt_characters: 644
+request_response: none
+request_response_time: 0.554
+request_prompt_characters: 661
+request_response: none
+request_response_time: 0.478
+request_prompt_characters: 657
+request_response: none
+request_response_time: 0.529
+request_prompt_characters: 663
+request_response: none
+request_response_time: 0.484
+request_prompt_characters: 648
+request_response: none
+request_response_time: 0.55
+request_prompt_characters: 665
+request_response: none
+request_response_time: 0.566
+request_prompt_characters: 666
+request_response: none
+request_response_time: 0.819
+request_prompt_characters: 693
+request_response: none
+request_response_time: 0.629
+request_prompt_characters: 636
+request_response: none
+request_response_time: 0.548
+request_prompt_characters: 642
+request_response: none
+request_response_time: 0.617
+request_prompt_characters: 641
+request_response: none
+request_response_time: 0.657
+request_prompt_characters: 652
+request_response: none
+request_response_time: 0.548
+request_prompt_characters: 683
+request_response: none
+request_response_time: 0.55
+request_prompt_characters: 664
+request_response: the user finds the task too hard
+request_response_time: 0.546
+request_prompt_characters: 684
+request_response: none
+request_response_time: 0.531
+request_prompt_characters: 663
+request_response: 'the user finds the task too hard'
+request_response_time: 0.469
+request_prompt_characters: 649
+request_response: none
+request_response_time: 0.675
+request_prompt_characters: 674
+request_response: none
+request_response_time: 1.048
+request_prompt_characters: 662
+request_response: none
+request_response_time: 0.534
+request_prompt_characters: 687
+request_response: none
+request_response_time: 0.625
+request_prompt_characters: 637
+request_response: none
+request_response_time: 0.748
+request_prompt_characters: 666
+request_response: none
+request_response_time: 0.575
+request_prompt_characters: 648
+request_response: none
+request_response_time: 0.603
+request_prompt_characters: 648
+request_response: none
+request_response_time: 0.573
+request_prompt_characters: 654
+request_response: none
+request_response_time: 0.606
+request_prompt_characters: 641
+request_response: none
+request_response_time: 0.69
+request_prompt_characters: 678
+request_response: 'the user finds the task too easy'
+request_response_time: 0.817
+request_prompt_characters: 658
+request_response: none
+request_response_time: 0.508
+request_prompt_characters: 656
+request_response: none
+request_response_time: 1.07
+request_prompt_characters: 679
+request_response: none
+request_response_time: 0.546
+request_prompt_characters: 672
+request_response: none
+request_response_time: 0.634
+request_prompt_characters: 656
+request_response: none
+request_response_time: 0.75
+request_prompt_characters: 432
+request_response: the user finds the task too hard
+request_response_time: 0.604
+request_prompt_characters: 432
+request_response: 'the user finds the task too hard'
+request_response_time: 0.659
+request_prompt_characters: 426
+request_response: the user finds the task too hard
+request_response_time: 0.58
+request_prompt_characters: 422
+request_response: the user finds the task too hard
+request_response_time: 0.566
+request_prompt_characters: 465
+request_response: the user finds the task too hard
+request_response_time: 0.678
+request_prompt_characters: 447
+request_response: the user finds the task too hard
+request_response_time: 0.585
+request_prompt_characters: 425
+request_response: none
+request_response_time: 1.162
+request_prompt_characters: 423
+request_response: the user finds the task too hard
+request_response_time: 0.704
+request_prompt_characters: 412
+request_response: the user finds the task too hard
+request_response_time: 0.661
+request_prompt_characters: 457
+request_response: the user finds the task too hard
+request_response_time: 0.805
+request_prompt_characters: 447
+request_response: the user finds the task too hard
+request_response_time: 0.779
+request_prompt_characters: 448
+request_response: the user finds the task too hard
+request_response_time: 0.74
+request_prompt_characters: 439
+request_response: 'the user finds the task too hard'
+request_response_time: 0.626
+request_prompt_characters: 477
+request_response: the user finds the task too hard
+request_response_time: 0.832
+request_prompt_characters: 472
+request_response: the user finds the task too hard
+request_response_time: 0.613
+request_prompt_characters: 460
+request_response: the user finds the task too hard
+request_response_time: 1.542
+request_prompt_characters: 449
+request_response: the user finds the task too hard
+request_response_time: 0.642
+request_prompt_characters: 483
+request_response: the user finds the task too hard
+request_response_time: 0.688
+request_prompt_characters: 470
+request_response: the user finds the task too hard
+request_response_time: 0.636
+request_prompt_characters: 445
+request_response: the user finds the task too hard
+request_response_time: 0.633
+request_prompt_characters: 464
+request_response: the user finds the task too hard
+request_response_time: 0.538
+request_prompt_characters: 446
+request_response: none
+request_response_time: 0.657
+request_prompt_characters: 457
+request_response: the user finds the task too hard
+request_response_time: 1.101
+request_prompt_characters: 458
+request_response: the user finds the task too hard
+request_response_time: 1.16
+request_prompt_characters: 459
+request_response: the user finds the task too hard
+request_response_time: 0.881
+request_prompt_characters: 454
+request_response: the user finds the task too hard
+request_response_time: 0.553
+request_prompt_characters: 438
+request_response: the user finds the task too hard
+request_response_time: 0.992
+request_prompt_characters: 453
+request_response: the user finds the task too hard
+request_response_time: 0.756
+request_prompt_characters: 468
+request_response: the user finds the task too hard
+request_response_time: 0.596
+request_prompt_characters: 459
+request_response: the user finds the task too hard
+request_response_time: 0.58
+request_prompt_characters: 458
+request_response: 'the user finds the task too hard'
+request_response_time: 0.628
+request_prompt_characters: 453
+request_response: the user finds the task too hard
+request_response_time: 0.742
+request_prompt_characters: 450
+request_response: the user finds the task too hard
+request_response_time: 0.721
+request_prompt_characters: 439
+request_response: the user finds the task too hard
+request_response_time: 0.643
+request_prompt_characters: 471
+request_response: the user finds the task too hard
+request_response_time: 0.548
+request_prompt_characters: 452
+request_response: the user finds the task too hard
+request_response_time: 0.598
+request_prompt_characters: 469
+request_response: the user finds the task too hard
+request_response_time: 0.636
+request_prompt_characters: 444
+request_response: the user finds the task too hard
+request_response_time: 1.072
+request_prompt_characters: 464
+request_response: the user finds the task too hard
+request_response_time: 0.846
+request_prompt_characters: 446
+request_response: the user finds the task too hard
+request_response_time: 0.801
+request_prompt_characters: 472
+request_response: the user finds the task too hard
+request_response_time: 0.423
+request_prompt_characters: 447
+request_response: the user finds the task too hard
+request_response_time: 1.573
+request_prompt_characters: 471
+request_response: 'the user finds the task too hard'
+request_response_time: 0.52
+request_prompt_characters: 452
+request_response: none
+request_response_time: 0.614
+request_prompt_characters: 447
+request_response: the user finds the task too hard
+request_response_time: 0.605
+request_prompt_characters: 443
+request_response: the user finds the task too hard
+request_response_time: 0.545
+request_prompt_characters: 473
+request_response: the user finds the task too hard
+request_response_time: 0.566
+request_prompt_characters: 452
+request_response: the user finds the task too hard
+request_response_time: 0.519
+request_prompt_characters: 450
+request_response: the user finds the task too hard
+request_response_time: 0.492
+request_prompt_characters: 457
+request_response: the user finds the task too hard
+request_response_time: 0.893
+request_prompt_characters: 433
+request_response: the user finds the task too easy
+request_response_time: 0.65
+request_prompt_characters: 450
+request_response: the user finds the task too easy
+request_response_time: 0.417
+request_prompt_characters: 450
+request_response: none
+request_response_time: 0.676
+request_prompt_characters: 428
+request_response: the user finds the task too easy
+request_response_time: 0.725
+request_prompt_characters: 433
+request_response: the user finds the task too easy
+request_response_time: 0.627
+request_prompt_characters: 440
+request_response: 'the user finds the task too easy'
+request_response_time: 0.485
+request_prompt_characters: 435
+request_response: the user finds the task too easy
+request_response_time: 0.614
+request_prompt_characters: 440
+request_response: the user finds the task too easy
+request_response_time: 0.863
+request_prompt_characters: 442
+request_response: the user finds the task too easy
+request_response_time: 0.622
+request_prompt_characters: 435
+request_response: the user finds the task too easy
+request_response_time: 0.555
+request_prompt_characters: 469
+request_response: none
+request_response_time: 0.632
+request_prompt_characters: 435
+request_response: the user finds the task too easy
+request_response_time: 1.023
+request_prompt_characters: 440
+request_response: none
+request_response_time: 0.851
+request_prompt_characters: 441
+request_response: the user finds the task too easy
+request_response_time: 0.552
+request_prompt_characters: 448
+request_response: the user finds the task too easy
+request_response_time: 0.823
+request_prompt_characters: 448
+request_response: the user finds the task too easy
+request_response_time: 0.894
+request_prompt_characters: 448
+request_response: the user finds the task too easy
+request_response_time: 0.573
+request_prompt_characters: 442
+request_response: the user finds the task too easy
+request_response_time: 0.63
+request_prompt_characters: 442
+request_response: the user finds the task too easy
+request_response_time: 0.854
+request_prompt_characters: 439
+request_response: the user finds the task too easy
+request_response_time: 0.687
+request_prompt_characters: 444
+request_response: the user finds the task too easy
+request_response_time: 0.529
+request_prompt_characters: 443
+request_response: none
+request_response_time: 0.58
+request_prompt_characters: 448
+request_response: the user finds the task too easy
+request_response_time: 0.542
+request_prompt_characters: 453
+request_response: the user finds the task too easy
+request_response_time: 0.541
+request_prompt_characters: 447
+request_response: the user finds the task too easy
+request_response_time: 0.96
+request_prompt_characters: 448
+request_response: the user finds the task too easy
+request_response_time: 0.625
+request_prompt_characters: 459
+request_response: the user finds the task too easy
+request_response_time: 0.574
+request_prompt_characters: 435
+request_response: the user finds the task too easy
+request_response_time: 0.62
+request_prompt_characters: 445
+request_response: the user finds the task too easy
+request_response_time: 0.734
+request_prompt_characters: 435
+request_response: the user finds the task too easy
+request_response_time: 0.603
+request_prompt_characters: 443
+request_response: the user finds the task too easy
+request_response_time: 0.638
+request_prompt_characters: 449
+request_response: 'the user finds the task too easy'
+request_response_time: 0.602
+request_prompt_characters: 429
+request_response: the user finds the task too easy
+request_response_time: 0.968
+request_prompt_characters: 437
+request_response: the user finds the task too easy
+request_response_time: 0.479
+request_prompt_characters: 430
+request_response: the user finds the task too easy
+request_response_time: 0.864
+request_prompt_characters: 447
+request_response: the user finds the task too easy
+request_response_time: 0.56
+request_prompt_characters: 443
+request_response: none
+request_response_time: 0.78
+request_prompt_characters: 448
+request_response: the user finds the task too easy
+request_response_time: 0.681
+request_prompt_characters: 425
+request_response: 'the user finds the task too hard'
+request_response_time: 0.595
+request_prompt_characters: 448
+request_response: the user finds the task too easy
+request_response_time: 4.018
+request_prompt_characters: 475
+request_response: none
+request_response_time: 0.592
+request_prompt_characters: 438
+request_response: 'the user finds the task too easy'
+request_response_time: 0.809
+request_prompt_characters: 463
+request_response: the user finds the task too easy
+request_response_time: 0.674
+request_prompt_characters: 459
+request_response: the user finds the task too easy
+request_response_time: 1.233
+request_prompt_characters: 451
+request_response: the user finds the task too easy
+request_response_time: 0.689
+request_prompt_characters: 463
+request_response: the user finds the task too easy
+request_response_time: 0.758
+request_prompt_characters: 445
+request_response: the user finds the task too easy
+request_response_time: 0.613
+request_prompt_characters: 446
+request_response: the user finds the task too easy
+request_response_time: 0.701
+request_prompt_characters: 433
+request_response: the user finds the task too easy
+request_response_time: 0.664
+request_prompt_characters: 453
+request_response: none
+request_response_time: 0.515
+request_prompt_characters: 472
+request_response: none
+request_response_time: 0.897
+request_prompt_characters: 456
+request_response: the user finds the task too hard
+request_response_time: 0.541
+request_prompt_characters: 472
+request_response: none
+request_response_time: 0.674
+request_prompt_characters: 465
+request_response: the user finds the task too hard
+request_response_time: 0.719
+request_prompt_characters: 461
+request_response: the user finds the task too hard
+request_response_time: 7.363
+request_prompt_characters: 465
+request_response: none
+request_response_time: 0.534
+request_prompt_characters: 457
+request_response: none
+request_response_time: 0.72
+request_prompt_characters: 467
+request_response: none
+request_response_time: 1.237
+request_prompt_characters: 448
+request_response: none
+request_response_time: 0.462
+request_prompt_characters: 456
+request_response: the user finds the task too hard
+request_response_time: 0.815
+request_prompt_characters: 473
+request_response: the user finds the task too hard
+request_response_time: 0.393
+request_prompt_characters: 459
+request_response: none
+request_response_time: 0.552
+request_prompt_characters: 443
+request_response: none
+request_response_time: 0.687
+request_prompt_characters: 469
+request_response: the user finds the task too hard
+request_response_time: 0.569
+request_prompt_characters: 466
+request_response: none
+request_response_time: 0.644
+request_prompt_characters: 469
+request_response: the user finds the task too hard
+request_response_time: 0.535
+request_prompt_characters: 461
+request_response: none
+request_response_time: 0.654
+request_prompt_characters: 465
+request_response: none
+request_response_time: 0.651
+request_prompt_characters: 466
+request_response: the user finds the task too hard
+request_response_time: 0.534
+request_prompt_characters: 460
+request_response: none
+request_response_time: 0.43
+request_prompt_characters: 472
+request_response: none
+request_response_time: 0.38
+request_prompt_characters: 451
+request_response: none
+request_response_time: 0.553
+request_prompt_characters: 463
+request_response: the user finds the task too hard
+request_response_time: 0.495
+request_prompt_characters: 450
+request_response: none
+request_response_time: 0.57
+request_prompt_characters: 458
+request_response: 'the user finds the task too hard'
+request_response_time: 0.709
+request_prompt_characters: 460
+request_response: the user finds the task too hard
+request_response_time: 0.575
+request_prompt_characters: 472
+request_response: none
+request_response_time: 0.615
+request_prompt_characters: 457
+request_response: none
+request_response_time: 0.857
+request_prompt_characters: 467
+request_response: the user finds the task too hard
+request_response_time: 0.663
+request_prompt_characters: 460
+request_response: none
+request_response_time: 0.638
+request_prompt_characters: 456
+request_response: 'the user finds the task too hard'
+request_response_time: 0.585
+request_prompt_characters: 455
+request_response: none
+request_response_time: 0.617
+request_prompt_characters: 455
+request_response: the user finds the task too hard
+request_response_time: 0.63
+request_prompt_characters: 443
+request_response: none
+request_response_time: 0.474
+request_prompt_characters: 463
+request_response: none
+request_response_time: 1.491
+request_prompt_characters: 451
+request_response: 'the user finds the task too hard'
+request_response_time: 0.566
+request_prompt_characters: 459
+request_response: 'the user finds the task too hard'
+request_response_time: 0.568
+request_prompt_characters: 463
+request_response: none
+request_response_time: 0.457
+request_prompt_characters: 448
+request_response: none
+request_response_time: 0.612
+request_prompt_characters: 457
+request_response: none
+request_response_time: 0.549
+request_prompt_characters: 475
+request_response: none
+request_response_time: 0.626
+request_prompt_characters: 466
+request_response: the user finds the task too hard
+request_response_time: 1.332
+request_prompt_characters: 473
+request_response: the user finds the task too hard
+request_response_time: 0.58
+request_prompt_characters: 468
+request_response: the user finds the task too hard
+request_response_time: 0.517
+request_prompt_characters: 464
+request_response: none
+request_response_time: 0.611
+request_prompt_characters: 468
+request_response: none
+request_response_time: 0.755
+request_prompt_characters: 466
+request_response: the user finds the task too hard
+request_response_time: 0.66
+request_prompt_characters: 455
+request_response: the user finds the task too hard
+request_response_time: 0.737
+request_prompt_characters: 451
+request_response: 'the user finds the task too hard'
+request_response_time: 0.611
+request_prompt_characters: 458
+request_response: the user finds the task too hard
+request_response_time: 0.614
+request_prompt_characters: 432
+request_response: the user finds the task too hard
+request_response_time: 0.642
+request_prompt_characters: 417
+request_response: the user finds the task too hard
+request_response_time: 0.801
+request_prompt_characters: 444
+request_response: the user finds the task too hard
+request_response_time: 0.676
+request_prompt_characters: 424
+request_response: the user finds the task too hard
+request_response_time: 0.647
+request_prompt_characters: 436
+request_response: the user finds the task too hard
+request_response_time: 1.139
+request_prompt_characters: 453
+request_response: the user finds the task too hard
+request_response_time: 0.455
+request_prompt_characters: 437
+request_response: none
+request_response_time: 0.646
+request_prompt_characters: 434
+request_response: the user finds the task too hard
+request_response_time: 0.663
+request_prompt_characters: 438
+request_response: the user finds the task too hard
+request_response_time: 0.582
+request_prompt_characters: 437
+request_response: the user finds the task too hard
+request_response_time: 0.675
+request_prompt_characters: 439
+request_response: 'the user finds the task too hard'
+request_response_time: 0.628
+request_prompt_characters: 443
+request_response: the user finds the task too hard
+request_response_time: 0.897
+request_prompt_characters: 436
+request_response: the user finds the task too hard
+request_response_time: 0.457
+request_prompt_characters: 452
+request_response: the user finds the task too hard
+request_response_time: 0.722
+request_prompt_characters: 450
+request_response: none
+request_response_time: 0.597
+request_prompt_characters: 435
+request_response: the user finds the task too hard
+request_response_time: 0.759
+request_prompt_characters: 437
+request_response: 'the user finds the task too hard'
+request_response_time: 0.639
+request_prompt_characters: 447
+request_response: the user finds the task too hard
+request_response_time: 0.754
+request_prompt_characters: 433
+request_response: 'the user finds the task too hard'
+request_response_time: 0.674
+request_prompt_characters: 455
+request_response: the user finds the task too hard
+request_response_time: 0.658
+request_prompt_characters: 444
+request_response: the user finds the task too hard
+request_response_time: 0.58
+request_prompt_characters: 441
+request_response: the user finds the task too hard
+request_response_time: 0.675
+request_prompt_characters: 448
+request_response: the user finds the task too hard
+request_response_time: 0.847
+request_prompt_characters: 435
+request_response: the user finds the task too hard
+request_response_time: 0.63
+request_prompt_characters: 432
+request_response: 'the user finds the task too hard'
+request_response_time: 3.616
+request_prompt_characters: 439
+request_response: the user finds the task too hard
+request_response_time: 0.645
+request_prompt_characters: 447
+request_response: the user finds the task too hard
+request_response_time: 2.782
+request_prompt_characters: 440
+request_response: the user finds the task too hard
+request_response_time: 0.612
+request_prompt_characters: 436
+request_response: the user finds the task too hard
+request_response_time: 0.905
+request_prompt_characters: 430
+request_response: the user finds the task too hard
+request_response_time: 0.641
+request_prompt_characters: 435
+request_response: the user finds the task too hard
+request_response_time: 0.643
+request_prompt_characters: 432
+request_response: the user finds the task too hard
+request_response_time: 0.814
+request_prompt_characters: 438
+request_response: 'the user finds the task too hard'
+request_response_time: 0.612
+request_prompt_characters: 434
+request_response: the user finds the task too hard
+request_response_time: 0.861
+request_prompt_characters: 445
+request_response: 'the user finds the task too hard'
+request_response_time: 0.736
+request_prompt_characters: 445
+request_response: the user finds the task too hard
+request_response_time: 0.737
+request_prompt_characters: 449
+request_response: 'the user finds the task too hard'
+request_response_time: 0.565
+request_prompt_characters: 451
+request_response: the user finds the task too hard
+request_response_time: 0.705
+request_prompt_characters: 448
+request_response: the user finds the task too hard
+request_response_time: 0.863
+request_prompt_characters: 444
+request_response: the user finds the task too hard
+request_response_time: 1.065
+request_prompt_characters: 438
+request_response: the user finds the task too hard
+request_response_time: 0.861
+request_prompt_characters: 445
+request_response: the user finds the task too hard
+request_response_time: 0.801
+request_prompt_characters: 456
+request_response: the user finds the task too hard
+request_response_time: 0.629
+request_prompt_characters: 446
+request_response: the user finds the task too hard
+request_response_time: 1.862
+request_prompt_characters: 451
+request_response: the user finds the task too hard
+request_response_time: 0.569
+request_prompt_characters: 466
+request_response: the user finds the task too hard
+request_response_time: 0.653
+request_prompt_characters: 455
+request_response: the user finds the task too hard
+request_response_time: 0.816
+request_prompt_characters: 440
+request_response: the user finds the task too hard
+request_response_time: 0.768
+request_prompt_characters: 444
+request_response: the user finds the task too hard
+request_response_time: 0.616
+request_prompt_characters: 448
+request_response: 'the user finds the task too hard'
+request_response_time: 0.615
+request_prompt_characters: 460
+request_response: the user finds the task too hard
+request_response_time: 0.799
+request_prompt_characters: 448
+request_response: the user finds the task too hard
+request_response_time: 0.503
+request_prompt_characters: 481
+request_response: the user finds the task too hard
+request_response_time: 0.801
+request_prompt_characters: 448
+request_response: the user finds the task too hard
+request_response_time: 0.613
+request_prompt_characters: 461
+request_response: the user finds the task too hard
+request_response_time: 0.598
+request_prompt_characters: 470
+request_response: the user finds the task too hard
+request_response_time: 0.715
+request_prompt_characters: 448
+request_response: the user finds the task too hard
+request_response_time: 0.492
+request_prompt_characters: 456
+request_response: the user finds the task too hard
+request_response_time: 0.724
+request_prompt_characters: 452
+request_response: the user finds the task too hard
+request_response_time: 0.857
+request_prompt_characters: 439
+request_response: the user finds the task too hard
+request_response_time: 0.832
+request_prompt_characters: 464
+request_response: the user finds the task too hard
+request_response_time: 0.672
+request_prompt_characters: 441
+request_response: the user finds the task too hard
+request_response_time: 0.575
+request_prompt_characters: 456
+request_response: the user finds the task too hard
+request_response_time: 0.822
+request_prompt_characters: 441
+request_response: the user finds the task too hard
+request_response_time: 2.978
+request_prompt_characters: 464
+request_response: the user finds the task too hard
+request_response_time: 0.613
+request_prompt_characters: 458
+request_response: the user finds the task too hard
+request_response_time: 0.44
+request_prompt_characters: 440
+request_response: the user finds the task too hard
+request_response_time: 0.497
+request_prompt_characters: 446
+request_response: the user finds the task too hard
+request_response_time: 1.162
+request_prompt_characters: 455
+request_response: the user finds the task too hard
+request_response_time: 0.611
+request_prompt_characters: 447
+request_response: the user finds the task too hard
+request_response_time: 1.143
+request_prompt_characters: 447
+request_response: the user finds the task too hard
+request_response_time: 0.676
+request_prompt_characters: 449
+request_response: the user finds the task too hard
+request_response_time: 3.636
+request_prompt_characters: 450
+request_response: the user finds the [problem] too [difficult] to solve. 
+
+[note: the text in square brackets is a placeholder for the actual problem and the word "difficult" is a placeholder for the actual word that describes the problem. the text in square brackets is not part of the original text and is not meant to be taken literally. it is a placeholder for the actual text that is being described. the text in square brackets is not meant to be taken as a literal description of
+request_response_time: 0.74
+request_prompt_characters: 460
+request_response: the user finds the task too hard
+request_response_time: 0.648
+request_prompt_characters: 435
+request_response: the user finds the task too hard
+request_response_time: 0.605
+request_prompt_characters: 459
+request_response: the user finds the task too hard
+request_response_time: 0.57
+request_prompt_characters: 467
+request_response: the user finds the task too hard
+request_response_time: 0.631
+request_prompt_characters: 450
+request_response: the user finds the task too hard
+request_response_time: 0.594
+request_prompt_characters: 441
+request_response: the user finds the task too hard
+request_response_time: 0.581
+request_prompt_characters: 452
+request_response: the user finds the task too hard
+request_response_time: 0.628
+request_prompt_characters: 445
+request_response: the user finds the task too hard
+request_response_time: 0.721
+request_prompt_characters: 443
+request_response: the user finds the task too hard
+request_response_time: 0.472
+request_prompt_characters: 446
+request_response: the user finds the task too hard
+request_response_time: 0.831
+request_prompt_characters: 449
+request_response: the user finds the task too hard
+request_response_time: 1.615
+request_prompt_characters: 439
+request_response: the user finds the task too hard
+request_response_time: 0.531
+request_prompt_characters: 440
+request_response: the user finds the task too hard
+request_response_time: 0.641
+request_prompt_characters: 444
+request_response: the user finds the task too hard
+request_response_time: 0.735
+request_prompt_characters: 453
+request_response: the user finds the task too hard
+request_response_time: 0.785
+request_prompt_characters: 443
+request_response: the user finds the task too hard
+request_response_time: 0.627
+request_prompt_characters: 444
+request_response: the user finds the task too hard
+request_response_time: 0.643
+request_prompt_characters: 447
+request_response: the user finds the task too hard
+request_response_time: 0.613
+request_prompt_characters: 455
+request_response: the user finds the task too hard
+request_response_time: 0.878
+request_prompt_characters: 466
+request_response: the user finds the task too hard
+request_response_time: 0.8
+request_prompt_characters: 421
+request_response: the user finds the task too hard
+request_response_time: 0.55
+request_prompt_characters: 460
+request_response: the user finds the task too hard
+request_response_time: 0.565
+request_prompt_characters: 460
+request_response: the user finds the task too hard
+request_response_time: 0.657
+request_prompt_characters: 462
+request_response: the user finds the task too hard
+request_response_time: 0.501
+request_prompt_characters: 462
+request_response: the user finds the task too hard
+request_response_time: 0.736
+request_prompt_characters: 456
+request_response: the user finds the task too hard
+request_response_time: 0.691
+request_prompt_characters: 441
+request_response: the user finds the task too hard
+request_response_time: 0.61
+request_prompt_characters: 477
+request_response: none
+request_response_time: 0.517
+request_prompt_characters: 472
+request_response: none
+request_response_time: 0.568
+request_prompt_characters: 504
+request_response: none
+request_response_time: 0.486
+request_prompt_characters: 488
+request_response: none
+request_response_time: 0.597
+request_prompt_characters: 508
+request_response: none
+request_response_time: 0.644
+request_prompt_characters: 475
+request_response: none
+request_response_time: 1.71
+request_prompt_characters: 475
+request_response: 'the user finds the task too easy'
+request_response_time: 0.627
+request_prompt_characters: 478
+request_response: none
+request_response_time: 0.597
+request_prompt_characters: 487
+request_response: none
+request_response_time: 0.596
+request_prompt_characters: 486
+request_response: none
+request_response_time: 0.58
+request_prompt_characters: 500
+request_response: none
+request_response_time: 0.612
+request_prompt_characters: 483
+request_response: none
+request_response_time: 0.455
+request_prompt_characters: 511
+request_response: none
+request_response_time: 0.565
+request_prompt_characters: 492
+request_response: none
+request_response_time: 0.688
+request_prompt_characters: 506
+request_response: none
+request_response_time: 3.287
+request_prompt_characters: 479
+request_response: 'the user finds the task too hard'
+request_response_time: 0.549
+request_prompt_characters: 490
+request_response: none
+request_response_time: 0.517
+request_prompt_characters: 485
+request_response: none
+request_response_time: 0.393
+request_prompt_characters: 485
+request_response: none
+request_response_time: 0.518
+request_prompt_characters: 479
+request_response: none
+request_response_time: 0.502
+request_prompt_characters: 486
+request_response: none
+request_response_time: 0.58
+request_prompt_characters: 475
+request_response: none
+request_response_time: 0.565
+request_prompt_characters: 477
+request_response: none
+request_response_time: 0.472
+request_prompt_characters: 485
+request_response: none
+request_response_time: 0.532
+request_prompt_characters: 471
+request_response: none
+request_response_time: 0.517
+request_prompt_characters: 485
+request_response: none
+request_response_time: 0.577
+request_prompt_characters: 484
+request_response: none
+request_response_time: 0.506
+request_prompt_characters: 450
+request_response: none
+request_response_time: 0.612
+request_prompt_characters: 477
+request_response: none
+request_response_time: 1.146
+request_prompt_characters: 467
+request_response: none
+request_response_time: 0.534
+request_prompt_characters: 459
+request_response: none
+request_response_time: 0.863
+request_prompt_characters: 480
+request_response: none
+request_response_time: 0.564
+request_prompt_characters: 476
+request_response: none
+request_response_time: 3.789
+request_prompt_characters: 473
+request_response: none
+request_response_time: 0.626
+request_prompt_characters: 466
+request_response: none
+request_response_time: 0.533
+request_prompt_characters: 476
+request_response: none
+request_response_time: 0.485
+request_prompt_characters: 470
+request_response: none
+request_response_time: 0.721
+request_prompt_characters: 459
+request_response: none
+request_response_time: 0.627
+request_prompt_characters: 482
+request_response: none
+request_response_time: 0.548
+request_prompt_characters: 480
+request_response: none
+request_response_time: 0.503
+request_prompt_characters: 467
+request_response: none
+request_response_time: 0.518
+request_prompt_characters: 483
+request_response: none
+request_response_time: 0.517
+request_prompt_characters: 486
+request_response: none
+request_response_time: 0.58
+request_prompt_characters: 477
+request_response: 'the user finds the task too easy'
+request_response_time: 0.517
+request_prompt_characters: 467
+request_response: none
+request_response_time: 0.579
+request_prompt_characters: 455
+request_response: none
+request_response_time: 0.862
+request_prompt_characters: 480
+request_response: none
+request_response_time: 0.533
+request_prompt_characters: 476
+request_response: none
+request_response_time: 0.533
+request_prompt_characters: 446
+request_response: none
+request_response_time: 0.55
+request_prompt_characters: 466
+request_response: none
+request_response_time: 0.423
+request_prompt_characters: 494
+request_response: none
+request_response_time: 0.535
+request_prompt_characters: 481
+request_response: none
+request_response_time: 1.38
+request_prompt_characters: 480
+request_response: none
+request_response_time: 0.565
+request_prompt_characters: 489
+request_response: none
+request_response_time: 0.549
+request_prompt_characters: 492
+request_response: the user finds the task too hard
+request_response_time: 0.626
+request_prompt_characters: 469
+request_response: the user finds the task too hard
+request_response_time: 0.736
+request_prompt_characters: 479
+request_response: 'the user finds the task too hard'
+request_response_time: 0.563
+request_prompt_characters: 485
+request_response: none
+request_response_time: 0.674
+request_prompt_characters: 483
+request_response: 'the user finds the task too hard'
+request_response_time: 0.643
+request_prompt_characters: 477
+request_response: none
+request_response_time: 0.628
+request_prompt_characters: 490
+request_response: 'the user finds the task too hard'
+request_response_time: 1.175
+request_prompt_characters: 483
+request_response: the user finds the task too hard
+request_response_time: 0.595
+request_prompt_characters: 482
+request_response: none
+request_response_time: 0.551
+request_prompt_characters: 473
+request_response: none
+request_response_time: 0.47
+request_prompt_characters: 485
+request_response: none
+request_response_time: 0.454
+request_prompt_characters: 472
+request_response: 'the user finds the task too hard'
+request_response_time: 0.581
+request_prompt_characters: 490
+request_response: the user finds the task too hard
+request_response_time: 0.407
+request_prompt_characters: 473
+request_response: none
+request_response_time: 0.565
+request_prompt_characters: 485
+request_response: the user finds the task too hard
+request_response_time: 0.567
+request_prompt_characters: 496
+request_response: none
+request_response_time: 1.189
+request_prompt_characters: 490
+request_response: none
+request_response_time: 0.896
+request_prompt_characters: 485
+request_response: none
+request_response_time: 0.627
+request_prompt_characters: 485
+request_response: none
+request_response_time: 0.941
+request_prompt_characters: 471
+request_response: none
+request_response_time: 0.595
+request_prompt_characters: 502
+request_response: none
+request_response_time: 0.524
+request_prompt_characters: 485
+request_response: none
+request_response_time: 0.571
+request_prompt_characters: 479
+request_response: none
+request_response_time: 0.509
+request_prompt_characters: 481
+request_response: none
+request_response_time: 0.858
+request_prompt_characters: 478
+request_response: the user finds the task too hard
+request_response_time: 0.502
+request_prompt_characters: 489
+request_response: none
+request_response_time: 0.874
+request_prompt_characters: 489
+request_response: none
+request_response_time: 0.647
+request_prompt_characters: 495
+request_response: the user finds the task too hard
+request_response_time: 0.549
+request_prompt_characters: 509
+request_response: none
+request_response_time: 0.646
+request_prompt_characters: 492
+request_response: the user finds the task too hard
+request_response_time: 0.598
+request_prompt_characters: 494
+request_response: none
+request_response_time: 0.422
+request_prompt_characters: 499
+request_response: none
+request_response_time: 0.596
+request_prompt_characters: 487
+request_response: none
+request_response_time: 0.565
+request_prompt_characters: 503
+request_response: none
+request_response_time: 0.579
+request_prompt_characters: 478
+request_response: none
+request_response_time: 0.532
+request_prompt_characters: 505
+request_response: none
+request_response_time: 0.737
+request_prompt_characters: 487
+request_response: none
+request_response_time: 0.454
+request_prompt_characters: 483
+request_response: none
+request_response_time: 0.423
+request_prompt_characters: 493
+request_response: none
+request_response_time: 0.642
+request_prompt_characters: 478
+request_response: the user finds the task too hard
+request_response_time: 0.563
+request_prompt_characters: 509
+request_response: none
+request_response_time: 0.549
+request_prompt_characters: 486
+request_response: none
+request_response_time: 0.594
+request_prompt_characters: 504
+request_response: 'the user finds the task too hard'
+request_response_time: 0.549
+request_prompt_characters: 511
+request_response: none
+request_response_time: 0.689
+request_prompt_characters: 490
+request_response: none
+request_response_time: 0.517
+request_prompt_characters: 490
+request_response: none
